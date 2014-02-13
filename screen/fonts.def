@@ -1,0 +1,739 @@
+// Infinity Symbol [Extension of Smallfont]
+texture 8182 {
+   pal 0 { file "highresNR/screen/fonts/NRsmallfont/8182.png" }
+   pal 2 { file "highresNR/screen/fonts/NRsmallfont/8182_2.png" }
+   pal 8 { file "highresNR/screen/fonts/NRsmallfont/8182_8.png" }
+   pal 10 { file "highresNR/screen/fonts/NRsmallfont/8182_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRsmallfont/8182_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRsmallfont/8182_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRsmallfont/8182_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRsmallfont/8182_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRsmallfont/8182_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRsmallfont/8182_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRsmallfont/8182_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRsmallfont/8182_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRsmallfont/8182_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRsmallfont/8182_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRsmallfont/8182_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRsmallfont/8182_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRsmallfont/8182_23.png" }
+}
+
+// NR-Styled Red Font [Multi-Colored] (numbers and "-" sign only)
+texture 6384 {
+   pal 0 { file "highresNR/screen/fonts/NRredfont/6384.png" }
+   pal 10 { file "highresNR/screen/fonts/NRredfont/6384_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRredfont/6384_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRredfont/6384_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRredfont/6384_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRredfont/6384_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRredfont/6384_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRredfont/6384_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRredfont/6384_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRredfont/6384_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRredfont/6384_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRredfont/6384_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRredfont/6384_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRredfont/6384_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRredfont/6384_23.png" }
+}
+
+texture 6385 {
+   pal 0 { file "highresNR/screen/fonts/NRredfont/6385.png" }
+   pal 10 { file "highresNR/screen/fonts/NRredfont/6385_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRredfont/6385_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRredfont/6385_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRredfont/6385_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRredfont/6385_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRredfont/6385_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRredfont/6385_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRredfont/6385_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRredfont/6385_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRredfont/6385_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRredfont/6385_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRredfont/6385_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRredfont/6385_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRredfont/6385_23.png" }
+}
+texture 6386 {
+   pal 0 { file "highresNR/screen/fonts/NRredfont/6386.png" }
+   pal 10 { file "highresNR/screen/fonts/NRredfont/6386_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRredfont/6386_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRredfont/6386_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRredfont/6386_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRredfont/6386_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRredfont/6386_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRredfont/6386_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRredfont/6386_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRredfont/6386_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRredfont/6386_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRredfont/6386_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRredfont/6386_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRredfont/6386_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRredfont/6386_23.png" }
+}
+texture 6387 {
+   pal 0 { file "highresNR/screen/fonts/NRredfont/6387.png" }
+   pal 10 { file "highresNR/screen/fonts/NRredfont/6387_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRredfont/6387_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRredfont/6387_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRredfont/6387_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRredfont/6387_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRredfont/6387_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRredfont/6387_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRredfont/6387_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRredfont/6387_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRredfont/6387_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRredfont/6387_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRredfont/6387_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRredfont/6387_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRredfont/6387_23.png" }
+}
+texture 6388 {
+   pal 0 { file "highresNR/screen/fonts/NRredfont/6388.png" }
+   pal 10 { file "highresNR/screen/fonts/NRredfont/6388_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRredfont/6388_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRredfont/6388_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRredfont/6388_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRredfont/6388_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRredfont/6388_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRredfont/6388_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRredfont/6388_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRredfont/6388_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRredfont/6388_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRredfont/6388_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRredfont/6388_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRredfont/6388_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRredfont/6388_23.png" }
+}
+texture 6389 {
+   pal 0 { file "highresNR/screen/fonts/NRredfont/6389.png" }
+   pal 10 { file "highresNR/screen/fonts/NRredfont/6389_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRredfont/6389_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRredfont/6389_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRredfont/6389_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRredfont/6389_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRredfont/6389_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRredfont/6389_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRredfont/6389_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRredfont/6389_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRredfont/6389_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRredfont/6389_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRredfont/6389_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRredfont/6389_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRredfont/6389_23.png" }
+}
+texture 6390 {
+   pal 0 { file "highresNR/screen/fonts/NRredfont/6390.png" }
+   pal 10 { file "highresNR/screen/fonts/NRredfont/6390_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRredfont/6390_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRredfont/6390_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRredfont/6390_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRredfont/6390_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRredfont/6390_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRredfont/6390_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRredfont/6390_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRredfont/6390_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRredfont/6390_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRredfont/6390_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRredfont/6390_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRredfont/6390_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRredfont/6390_23.png" }
+}
+texture 6391 {
+   pal 0 { file "highresNR/screen/fonts/NRredfont/6391.png" }
+   pal 10 { file "highresNR/screen/fonts/NRredfont/6391_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRredfont/6391_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRredfont/6391_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRredfont/6391_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRredfont/6391_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRredfont/6391_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRredfont/6391_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRredfont/6391_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRredfont/6391_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRredfont/6391_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRredfont/6391_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRredfont/6391_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRredfont/6391_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRredfont/6391_23.png" }
+}
+texture 6392 {
+   pal 0 { file "highresNR/screen/fonts/NRredfont/6392.png" }
+   pal 10 { file "highresNR/screen/fonts/NRredfont/6392_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRredfont/6392_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRredfont/6392_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRredfont/6392_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRredfont/6392_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRredfont/6392_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRredfont/6392_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRredfont/6392_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRredfont/6392_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRredfont/6392_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRredfont/6392_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRredfont/6392_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRredfont/6392_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRredfont/6392_23.png" }
+}
+texture 6393 {
+   pal 0 { file "highresNR/screen/fonts/NRredfont/6393.png" }
+   pal 10 { file "highresNR/screen/fonts/NRredfont/6393_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRredfont/6393_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRredfont/6393_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRredfont/6393_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRredfont/6393_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRredfont/6393_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRredfont/6393_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRredfont/6393_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRredfont/6393_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRredfont/6393_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRredfont/6393_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRredfont/6393_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRredfont/6393_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRredfont/6393_23.png" }
+}
+texture 6394 {
+   pal 0 { file "highresNR/screen/fonts/NRredfont/6394.png" }
+   pal 10 { file "highresNR/screen/fonts/NRredfont/6394_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRredfont/6394_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRredfont/6394_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRredfont/6394_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRredfont/6394_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRredfont/6394_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRredfont/6394_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRredfont/6394_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRredfont/6394_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRredfont/6394_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRredfont/6394_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRredfont/6394_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRredfont/6394_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRredfont/6394_23.png" }
+}
+
+// NR Digital [Multicolored] (Used on Clocks and Keypads)
+texture 3459 {
+   pal 0 { file "highresNR/screen/fonts/NRdigital/3459.png" }
+   pal 10 { file "highresNR/screen/fonts/NRdigital/3459_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRdigital/3459_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRdigital/3459_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRdigital/3459_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRdigital/3459_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRdigital/3459_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRdigital/3459_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRdigital/3459_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRdigital/3459_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRdigital/3459_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRdigital/3459_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRdigital/3459_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRdigital/3459_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRdigital/3459_23.png" }
+}
+
+texture 3460 {
+   pal 0 { file "highresNR/screen/fonts/NRdigital/3460.png" }
+   pal 10 { file "highresNR/screen/fonts/NRdigital/3460_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRdigital/3460_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRdigital/3460_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRdigital/3460_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRdigital/3460_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRdigital/3460_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRdigital/3460_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRdigital/3460_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRdigital/3460_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRdigital/3460_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRdigital/3460_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRdigital/3460_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRdigital/3460_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRdigital/3460_23.png" }
+}
+
+texture 3461 {
+   pal 0 { file "highresNR/screen/fonts/NRdigital/3461.png" }
+   pal 10 { file "highresNR/screen/fonts/NRdigital/3461_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRdigital/3461_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRdigital/3461_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRdigital/3461_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRdigital/3461_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRdigital/3461_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRdigital/3461_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRdigital/3461_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRdigital/3461_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRdigital/3461_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRdigital/3461_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRdigital/3461_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRdigital/3461_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRdigital/3461_23.png" }
+}
+
+texture 3462 {
+   pal 0 { file "highresNR/screen/fonts/NRdigital/3462.png" }
+   pal 10 { file "highresNR/screen/fonts/NRdigital/3462_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRdigital/3462_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRdigital/3462_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRdigital/3462_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRdigital/3462_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRdigital/3462_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRdigital/3462_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRdigital/3462_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRdigital/3462_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRdigital/3462_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRdigital/3462_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRdigital/3462_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRdigital/3462_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRdigital/3462_23.png" }
+}
+
+texture 3463 {
+   pal 0 { file "highresNR/screen/fonts/NRdigital/3463.png" }
+   pal 10 { file "highresNR/screen/fonts/NRdigital/3463_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRdigital/3463_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRdigital/3463_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRdigital/3463_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRdigital/3463_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRdigital/3463_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRdigital/3463_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRdigital/3463_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRdigital/3463_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRdigital/3463_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRdigital/3463_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRdigital/3463_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRdigital/3463_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRdigital/3463_23.png" }
+}
+
+texture 3464 {
+   pal 0 { file "highresNR/screen/fonts/NRdigital/3464.png" }
+   pal 10 { file "highresNR/screen/fonts/NRdigital/3464_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRdigital/3464_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRdigital/3464_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRdigital/3464_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRdigital/3464_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRdigital/3464_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRdigital/3464_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRdigital/3464_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRdigital/3464_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRdigital/3464_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRdigital/3464_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRdigital/3464_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRdigital/3464_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRdigital/3464_23.png" }
+}
+
+texture 3465 {
+   pal 0 { file "highresNR/screen/fonts/NRdigital/3465.png" }
+   pal 10 { file "highresNR/screen/fonts/NRdigital/3465_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRdigital/3465_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRdigital/3465_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRdigital/3465_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRdigital/3465_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRdigital/3465_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRdigital/3465_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRdigital/3465_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRdigital/3465_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRdigital/3465_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRdigital/3465_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRdigital/3465_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRdigital/3465_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRdigital/3465_23.png" }
+}
+
+texture 3466 {
+   pal 0 { file "highresNR/screen/fonts/NRdigital/3466.png" }
+   pal 10 { file "highresNR/screen/fonts/NRdigital/3466_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRdigital/3466_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRdigital/3466_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRdigital/3466_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRdigital/3466_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRdigital/3466_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRdigital/3466_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRdigital/3466_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRdigital/3466_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRdigital/3466_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRdigital/3466_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRdigital/3466_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRdigital/3466_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRdigital/3466_23.png" }
+}
+
+texture 3467 {
+   pal 0 { file "highresNR/screen/fonts/NRdigital/3467.png" }
+   pal 10 { file "highresNR/screen/fonts/NRdigital/3467_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRdigital/3467_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRdigital/3467_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRdigital/3467_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRdigital/3467_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRdigital/3467_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRdigital/3467_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRdigital/3467_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRdigital/3467_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRdigital/3467_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRdigital/3467_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRdigital/3467_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRdigital/3467_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRdigital/3467_23.png" }
+}
+
+texture 3468 {
+   pal 0 { file "highresNR/screen/fonts/NRdigital/3468.png" }
+   pal 10 { file "highresNR/screen/fonts/NRdigital/3468_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRdigital/3468_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRdigital/3468_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRdigital/3468_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRdigital/3468_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRdigital/3468_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRdigital/3468_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRdigital/3468_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRdigital/3468_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRdigital/3468_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRdigital/3468_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRdigital/3468_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRdigital/3468_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRdigital/3468_23.png" }
+}
+
+texture 3469 {
+   pal 0 { file "highresNR/screen/fonts/NRdigital/3469.png" }
+   pal 10 { file "highresNR/screen/fonts/NRdigital/3469_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRdigital/3469_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRdigital/3469_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRdigital/3469_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRdigital/3469_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRdigital/3469_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRdigital/3469_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRdigital/3469_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRdigital/3469_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRdigital/3469_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRdigital/3469_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRdigital/3469_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRdigital/3469_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRdigital/3469_23.png" }
+}
+
+texture 3470 {
+   pal 0 { file "highresNR/screen/fonts/NRdigital/3470.png" }
+   pal 10 { file "highresNR/screen/fonts/NRdigital/3470_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRdigital/3470_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRdigital/3470_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRdigital/3470_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRdigital/3470_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRdigital/3470_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRdigital/3470_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRdigital/3470_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRdigital/3470_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRdigital/3470_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRdigital/3470_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRdigital/3470_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRdigital/3470_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRdigital/3470_23.png" }
+}
+
+texture 3471 { pal 0 { file "highresNR/screen/fonts/NRdigital/3471.png" } }
+
+texture 3472 {
+   pal 0 { file "highresNR/screen/fonts/NRdigital/3472.png" }
+   pal 10 { file "highresNR/screen/fonts/NRdigital/3472_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRdigital/3472_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRdigital/3472_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRdigital/3472_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRdigital/3472_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRdigital/3472_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRdigital/3472_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRdigital/3472_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRdigital/3472_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRdigital/3472_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRdigital/3472_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRdigital/3472_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRdigital/3472_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRdigital/3472_23.png" }
+}
+
+texture 3473 {
+   pal 0 { file "highresNR/screen/fonts/NRdigital/3473.png" }
+   pal 10 { file "highresNR/screen/fonts/NRdigital/3473_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRdigital/3473_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRdigital/3473_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRdigital/3473_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRdigital/3473_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRdigital/3473_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRdigital/3473_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRdigital/3473_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRdigital/3473_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRdigital/3473_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRdigital/3473_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRdigital/3473_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRdigital/3473_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRdigital/3473_23.png" }
+}
+
+texture 3474 {
+   pal 0 { file "highresNR/screen/fonts/NRdigital/3474.png" }
+   pal 10 { file "highresNR/screen/fonts/NRdigital/3474_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRdigital/3474_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRdigital/3474_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRdigital/3474_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRdigital/3474_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRdigital/3474_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRdigital/3474_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRdigital/3474_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRdigital/3474_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRdigital/3474_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRdigital/3474_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRdigital/3474_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRdigital/3474_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRdigital/3474_23.png" }
+}
+
+// Multipler Font
+texture 5538 {
+   pal 0 { file "highresNR/screen/fonts/NRmultiplierfont/5538.png" }
+   pal 10 { file "highresNR/screen/fonts/NRmultiplierfont/5538_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRmultiplierfont/5538_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRmultiplierfont/5538_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRmultiplierfont/5538_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRmultiplierfont/5538_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRmultiplierfont/5538_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRmultiplierfont/5538_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRmultiplierfont/5538_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRmultiplierfont/5538_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRmultiplierfont/5538_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRmultiplierfont/5538_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRmultiplierfont/5538_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRmultiplierfont/5538_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRmultiplierfont/5538_23.png" }
+}
+
+texture 5539 {
+   pal 0 { file "highresNR/screen/fonts/NRmultiplierfont/5539.png" }
+   pal 10 { file "highresNR/screen/fonts/NRmultiplierfont/5539_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRmultiplierfont/5539_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRmultiplierfont/5539_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRmultiplierfont/5539_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRmultiplierfont/5539_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRmultiplierfont/5539_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRmultiplierfont/5539_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRmultiplierfont/5539_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRmultiplierfont/5539_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRmultiplierfont/5539_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRmultiplierfont/5539_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRmultiplierfont/5539_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRmultiplierfont/5539_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRmultiplierfont/5539_23.png" }
+}
+
+texture 5540 {
+   pal 0 { file "highresNR/screen/fonts/NRmultiplierfont/5540.png" }
+   pal 10 { file "highresNR/screen/fonts/NRmultiplierfont/5540_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRmultiplierfont/5540_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRmultiplierfont/5540_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRmultiplierfont/5540_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRmultiplierfont/5540_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRmultiplierfont/5540_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRmultiplierfont/5540_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRmultiplierfont/5540_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRmultiplierfont/5540_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRmultiplierfont/5540_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRmultiplierfont/5540_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRmultiplierfont/5540_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRmultiplierfont/5540_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRmultiplierfont/5540_23.png" }
+}
+
+// NR Special Font [damage/healing]
+texture 6302 {
+   pal 0 { file "highresNR/screen/fonts/NRspecialfont/6302.png" }
+   pal 10 { file "highresNR/screen/fonts/NRspecialfont/6302_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRspecialfont/6302_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRspecialfont/6302_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRspecialfont/6302_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRspecialfont/6302_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRspecialfont/6302_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRspecialfont/6302_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRspecialfont/6302_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRspecialfont/6302_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRspecialfont/6302_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRspecialfont/6302_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRspecialfont/6302_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRspecialfont/6302_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRspecialfont/6302_23.png" }
+}
+
+texture 6303 {
+   pal 0 { file "highresNR/screen/fonts/NRspecialfont/6303.png" }
+   pal 10 { file "highresNR/screen/fonts/NRspecialfont/6303_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRspecialfont/6303_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRspecialfont/6303_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRspecialfont/6303_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRspecialfont/6303_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRspecialfont/6303_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRspecialfont/6303_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRspecialfont/6303_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRspecialfont/6303_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRspecialfont/6303_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRspecialfont/6303_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRspecialfont/6303_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRspecialfont/6303_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRspecialfont/6303_23.png" }
+}
+
+texture 6304 {
+   pal 0 { file "highresNR/screen/fonts/NRspecialfont/6304.png" }
+   pal 10 { file "highresNR/screen/fonts/NRspecialfont/6304_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRspecialfont/6304_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRspecialfont/6304_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRspecialfont/6304_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRspecialfont/6304_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRspecialfont/6304_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRspecialfont/6304_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRspecialfont/6304_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRspecialfont/6304_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRspecialfont/6304_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRspecialfont/6304_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRspecialfont/6304_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRspecialfont/6304_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRspecialfont/6304_23.png" }
+}
+
+texture 6305 {
+   pal 0 { file "highresNR/screen/fonts/NRspecialfont/6305.png" }
+   pal 10 { file "highresNR/screen/fonts/NRspecialfont/6305_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRspecialfont/6305_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRspecialfont/6305_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRspecialfont/6305_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRspecialfont/6305_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRspecialfont/6305_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRspecialfont/6305_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRspecialfont/6305_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRspecialfont/6305_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRspecialfont/6305_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRspecialfont/6305_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRspecialfont/6305_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRspecialfont/6305_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRspecialfont/6305_23.png" }
+}
+
+texture 6306 {
+   pal 0 { file "highresNR/screen/fonts/NRspecialfont/6306.png" }
+   pal 10 { file "highresNR/screen/fonts/NRspecialfont/6306_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRspecialfont/6306_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRspecialfont/6306_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRspecialfont/6306_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRspecialfont/6306_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRspecialfont/6306_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRspecialfont/6306_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRspecialfont/6306_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRspecialfont/6306_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRspecialfont/6306_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRspecialfont/6306_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRspecialfont/6306_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRspecialfont/6306_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRspecialfont/6306_23.png" }
+}
+
+texture 6307 {
+   pal 0 { file "highresNR/screen/fonts/NRspecialfont/6307.png" }
+   pal 10 { file "highresNR/screen/fonts/NRspecialfont/6307_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRspecialfont/6307_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRspecialfont/6307_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRspecialfont/6307_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRspecialfont/6307_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRspecialfont/6307_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRspecialfont/6307_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRspecialfont/6307_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRspecialfont/6307_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRspecialfont/6307_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRspecialfont/6307_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRspecialfont/6307_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRspecialfont/6307_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRspecialfont/6307_23.png" }
+}
+
+texture 6308 {
+   pal 0 { file "highresNR/screen/fonts/NRspecialfont/6308.png" }
+   pal 10 { file "highresNR/screen/fonts/NRspecialfont/6308_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRspecialfont/6308_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRspecialfont/6308_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRspecialfont/6308_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRspecialfont/6308_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRspecialfont/6308_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRspecialfont/6308_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRspecialfont/6308_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRspecialfont/6308_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRspecialfont/6308_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRspecialfont/6308_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRspecialfont/6308_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRspecialfont/6308_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRspecialfont/6308_23.png" }
+}
+
+texture 6309 {
+   pal 0 { file "highresNR/screen/fonts/NRspecialfont/6309.png" }
+   pal 10 { file "highresNR/screen/fonts/NRspecialfont/6309_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRspecialfont/6309_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRspecialfont/6309_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRspecialfont/6309_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRspecialfont/6309_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRspecialfont/6309_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRspecialfont/6309_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRspecialfont/6309_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRspecialfont/6309_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRspecialfont/6309_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRspecialfont/6309_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRspecialfont/6309_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRspecialfont/6309_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRspecialfont/6309_23.png" }
+}
+
+texture 6310 {
+   pal 0 { file "highresNR/screen/fonts/NRspecialfont/6310.png" }
+   pal 10 { file "highresNR/screen/fonts/NRspecialfont/6310_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRspecialfont/6310_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRspecialfont/6310_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRspecialfont/6310_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRspecialfont/6310_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRspecialfont/6310_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRspecialfont/6310_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRspecialfont/6310_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRspecialfont/6310_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRspecialfont/6310_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRspecialfont/6310_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRspecialfont/6310_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRspecialfont/6310_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRspecialfont/6310_23.png" }
+}
+
+texture 6311 {
+   pal 0 { file "highresNR/screen/fonts/NRspecialfont/6311.png" }
+   pal 10 { file "highresNR/screen/fonts/NRspecialfont/6311_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRspecialfont/6311_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRspecialfont/6311_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRspecialfont/6311_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRspecialfont/6311_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRspecialfont/6311_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRspecialfont/6311_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRspecialfont/6311_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRspecialfont/6311_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRspecialfont/6311_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRspecialfont/6311_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRspecialfont/6311_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRspecialfont/6311_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRspecialfont/6311_23.png" }
+}
+
+texture 6312 {
+   pal 0 { file "highresNR/screen/fonts/NRspecialfont/6312.png" }
+   pal 10 { file "highresNR/screen/fonts/NRspecialfont/6312_10.png" }
+   pal 11 { file "highresNR/screen/fonts/NRspecialfont/6312_11.png" }
+   pal 12 { file "highresNR/screen/fonts/NRspecialfont/6312_12.png" }
+   pal 13 { file "highresNR/screen/fonts/NRspecialfont/6312_13.png" }
+   pal 14 { file "highresNR/screen/fonts/NRspecialfont/6312_14.png" }
+   pal 15 { file "highresNR/screen/fonts/NRspecialfont/6312_15.png" }
+   pal 16 { file "highresNR/screen/fonts/NRspecialfont/6312_16.png" }
+   pal 17 { file "highresNR/screen/fonts/NRspecialfont/6312_11.png" }
+   pal 18 { file "highresNR/screen/fonts/NRspecialfont/6312_12.png" }
+   pal 19 { file "highresNR/screen/fonts/NRspecialfont/6312_12.png" }
+   pal 20 { file "highresNR/screen/fonts/NRspecialfont/6312_12.png" }
+   pal 21 { file "highresNR/screen/fonts/NRspecialfont/6312_21.png" }
+   pal 22 { file "highresNR/screen/fonts/NRspecialfont/6312_11.png" }
+   pal 23 { file "highresNR/screen/fonts/NRspecialfont/6312_23.png" }
+}
+
+

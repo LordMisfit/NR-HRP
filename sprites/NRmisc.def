@@ -1,0 +1,23 @@
+// Miscellaneous Sprites for NR
+
+// "Misfits" Logo
+texture 3843 { pal 0 { file "highresNR/sprites/NRmisc/3843.png" } }
+
+// Level-Rank Star [Normal Monsters]
+texture 7811 {
+   pal 0 { file "highresNR/sprites/NRmisc/7811.png" }
+   pal 10 { file "highresNR/sprites/NRmisc/7811_10.png" }
+   pal 11 { file "highresNR/sprites/NRmisc/7811_11.png" }
+   pal 12 { file "highresNR/sprites/NRmisc/7811_12.png" }
+   pal 13 { file "highresNR/sprites/NRmisc/7811_13.png" }
+   pal 14 { file "highresNR/sprites/NRmisc/7811_14.png" }
+   pal 15 { file "highresNR/sprites/NRmisc/7811_15.png" }
+   pal 16 { file "highresNR/sprites/NRmisc/7811_16.png" }
+   pal 17 { file "highresNR/sprites/NRmisc/7811_11.png" }
+   pal 18 { file "highresNR/sprites/NRmisc/7811_12.png" }
+   pal 19 { file "highresNR/sprites/NRmisc/7811_12.png" }
+   pal 20 { file "highresNR/sprites/NRmisc/7811_12.png" }
+   pal 21 { file "highresNR/sprites/NRmisc/7811_21.png" }
+   pal 22 { file "highresNR/sprites/NRmisc/7811_11.png" }
+   pal 23 { file "highresNR/sprites/NRmisc/7811_23.png" }
+}

@@ -1,0 +1,30 @@
+// Affinity Icons
+texture 8140 { pal 0 { file "highresNR/sprites/NRaffinities/8140.png" } }
+texture 8141 { pal 0 { file "highresNR/sprites/NRaffinities/8141.png" } }
+texture 8142 { pal 0 { file "highresNR/sprites/NRaffinities/8142.png" } }
+texture 8143 { pal 0 { file "highresNR/sprites/NRaffinities/8143.png" } }
+texture 8144 { pal 0 { file "highresNR/sprites/NRaffinities/8144.png" } }
+texture 8145 { pal 0 { file "highresNR/sprites/NRaffinities/8145.png" } }
+texture 8146 { pal 0 { file "highresNR/sprites/NRaffinities/8146.png" } }
+texture 8147 { pal 0 { file "highresNR/sprites/NRaffinities/8147.png" } }
+texture 8148 { pal 0 { file "highresNR/sprites/NRaffinities/8148.png" } }
+texture 8149 { pal 0 { file "highresNR/sprites/NRaffinities/8149.png" } }
+texture 8150 { pal 0 { file "highresNR/sprites/NRaffinities/8150.png" } }
+texture 8151 { pal 0 { file "highresNR/sprites/NRaffinities/8151.png" } }
+texture 8152 { pal 0 { file "highresNR/sprites/NRaffinities/8152.png" } }
+texture 8153 { pal 0 { file "highresNR/sprites/NRaffinities/8153.png" } }
+texture 8154 { pal 0 { file "highresNR/sprites/NRaffinities/8154.png" } }
+texture 8155 { pal 0 { file "highresNR/sprites/NRaffinities/8155.png" } }
+texture 8156 { pal 0 { file "highresNR/sprites/NRaffinities/8156.png" } }
+texture 8157 { pal 0 { file "highresNR/sprites/NRaffinities/8157.png" } }
+texture 8158 { pal 0 { file "highresNR/sprites/NRaffinities/8158.png" } }
+texture 8159 { pal 0 { file "highresNR/sprites/NRaffinities/8159.png" } }
+texture 8160 { pal 0 { file "highresNR/sprites/NRaffinities/8160.png" } }
+texture 8161 { pal 0 { file "highresNR/sprites/NRaffinities/8161.png" } }
+texture 8162 { pal 0 { file "highresNR/sprites/NRaffinities/8162.png" } }
+texture 8163 { pal 0 { file "highresNR/sprites/NRaffinities/8163.png" } }
+texture 8164 { pal 0 { file "highresNR/sprites/NRaffinities/8164.png" } }
+texture 8165 { pal 0 { file "highresNR/sprites/NRaffinities/8165.png" } }
+texture 8166 { pal 0 { file "highresNR/sprites/NRaffinities/8166.png" } }
+texture 8167 { pal 0 { file "highresNR/sprites/NRaffinities/8167.png" } }
+

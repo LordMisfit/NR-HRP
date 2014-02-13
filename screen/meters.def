@@ -1,0 +1,597 @@
+// Meters [Air, Mantling, Bosses]
+
+texture 5030 {
+   pal 0 { file "highresNR/screen/meters/5030.png" }
+   pal 10 { file "highresNR/screen/meters/5030_10.png" }
+   pal 11 { file "highresNR/screen/meters/5030_11.png" }
+   pal 12 { file "highresNR/screen/meters/5030_12.png" }
+   pal 13 { file "highresNR/screen/meters/5030_13.png" }
+   pal 14 { file "highresNR/screen/meters/5030_14.png" }
+   pal 15 { file "highresNR/screen/meters/5030_15.png" }
+   pal 16 { file "highresNR/screen/meters/5030_16.png" }
+   pal 17 { file "highresNR/screen/meters/5030_11.png" }
+   pal 18 { file "highresNR/screen/meters/5030_12.png" }
+   pal 19 { file "highresNR/screen/meters/5030_12.png" }
+   pal 20 { file "highresNR/screen/meters/5030_12.png" }
+   pal 21 { file "highresNR/screen/meters/5030_21.png" }
+   pal 22 { file "highresNR/screen/meters/5030_11.png" }
+   pal 23 { file "highresNR/screen/meters/5030_23.png" }
+}
+
+texture 5031 {
+   pal 0 { file "highresNR/screen/meters/5031.png" }
+   pal 10 { file "highresNR/screen/meters/5031_10.png" }
+   pal 11 { file "highresNR/screen/meters/5031_11.png" }
+   pal 12 { file "highresNR/screen/meters/5031_12.png" }
+   pal 13 { file "highresNR/screen/meters/5031_13.png" }
+   pal 14 { file "highresNR/screen/meters/5031_14.png" }
+   pal 15 { file "highresNR/screen/meters/5031_15.png" }
+   pal 16 { file "highresNR/screen/meters/5031_16.png" }
+   pal 17 { file "highresNR/screen/meters/5031_11.png" }
+   pal 18 { file "highresNR/screen/meters/5031_12.png" }
+   pal 19 { file "highresNR/screen/meters/5031_12.png" }
+   pal 20 { file "highresNR/screen/meters/5031_12.png" }
+   pal 21 { file "highresNR/screen/meters/5031_21.png" }
+   pal 22 { file "highresNR/screen/meters/5031_11.png" }
+   pal 23 { file "highresNR/screen/meters/5031_23.png" }
+}
+
+texture 5032 {
+   pal 0 { file "highresNR/screen/meters/5032.png" }
+   pal 10 { file "highresNR/screen/meters/5032_10.png" }
+   pal 11 { file "highresNR/screen/meters/5032_11.png" }
+   pal 12 { file "highresNR/screen/meters/5032_12.png" }
+   pal 13 { file "highresNR/screen/meters/5032_13.png" }
+   pal 14 { file "highresNR/screen/meters/5032_14.png" }
+   pal 15 { file "highresNR/screen/meters/5032_15.png" }
+   pal 16 { file "highresNR/screen/meters/5032_16.png" }
+   pal 17 { file "highresNR/screen/meters/5032_11.png" }
+   pal 18 { file "highresNR/screen/meters/5032_12.png" }
+   pal 19 { file "highresNR/screen/meters/5032_12.png" }
+   pal 20 { file "highresNR/screen/meters/5032_12.png" }
+   pal 21 { file "highresNR/screen/meters/5032_21.png" }
+   pal 22 { file "highresNR/screen/meters/5032_11.png" }
+   pal 23 { file "highresNR/screen/meters/5032_23.png" }
+}
+
+texture 5033 {
+   pal 0 { file "highresNR/screen/meters/5033.png" }
+   pal 10 { file "highresNR/screen/meters/5033_10.png" }
+   pal 11 { file "highresNR/screen/meters/5033_11.png" }
+   pal 12 { file "highresNR/screen/meters/5033_12.png" }
+   pal 13 { file "highresNR/screen/meters/5033_13.png" }
+   pal 14 { file "highresNR/screen/meters/5033_14.png" }
+   pal 15 { file "highresNR/screen/meters/5033_15.png" }
+   pal 16 { file "highresNR/screen/meters/5033_16.png" }
+   pal 17 { file "highresNR/screen/meters/5033_11.png" }
+   pal 18 { file "highresNR/screen/meters/5033_12.png" }
+   pal 19 { file "highresNR/screen/meters/5033_12.png" }
+   pal 20 { file "highresNR/screen/meters/5033_12.png" }
+   pal 21 { file "highresNR/screen/meters/5033_21.png" }
+   pal 22 { file "highresNR/screen/meters/5033_11.png" }
+   pal 23 { file "highresNR/screen/meters/5033_23.png" }
+}
+
+texture 5034 {
+   pal 0 { file "highresNR/screen/meters/5034.png" }
+   pal 10 { file "highresNR/screen/meters/5034_10.png" }
+   pal 11 { file "highresNR/screen/meters/5034_11.png" }
+   pal 12 { file "highresNR/screen/meters/5034_12.png" }
+   pal 13 { file "highresNR/screen/meters/5034_13.png" }
+   pal 14 { file "highresNR/screen/meters/5034_14.png" }
+   pal 15 { file "highresNR/screen/meters/5034_15.png" }
+   pal 16 { file "highresNR/screen/meters/5034_16.png" }
+   pal 17 { file "highresNR/screen/meters/5034_11.png" }
+   pal 18 { file "highresNR/screen/meters/5034_12.png" }
+   pal 19 { file "highresNR/screen/meters/5034_12.png" }
+   pal 20 { file "highresNR/screen/meters/5034_12.png" }
+   pal 21 { file "highresNR/screen/meters/5034_21.png" }
+   pal 22 { file "highresNR/screen/meters/5034_11.png" }
+   pal 23 { file "highresNR/screen/meters/5034_23.png" }
+}
+
+texture 5035 {
+   pal 0 { file "highresNR/screen/meters/5035.png" }
+   pal 10 { file "highresNR/screen/meters/5035_10.png" }
+   pal 11 { file "highresNR/screen/meters/5035_11.png" }
+   pal 12 { file "highresNR/screen/meters/5035_12.png" }
+   pal 13 { file "highresNR/screen/meters/5035_13.png" }
+   pal 14 { file "highresNR/screen/meters/5035_14.png" }
+   pal 15 { file "highresNR/screen/meters/5035_15.png" }
+   pal 16 { file "highresNR/screen/meters/5035_16.png" }
+   pal 17 { file "highresNR/screen/meters/5035_11.png" }
+   pal 18 { file "highresNR/screen/meters/5035_12.png" }
+   pal 19 { file "highresNR/screen/meters/5035_12.png" }
+   pal 20 { file "highresNR/screen/meters/5035_12.png" }
+   pal 21 { file "highresNR/screen/meters/5035_21.png" }
+   pal 22 { file "highresNR/screen/meters/5035_11.png" }
+   pal 23 { file "highresNR/screen/meters/5035_23.png" }
+}
+
+texture 5036 {
+   pal 0 { file "highresNR/screen/meters/5036.png" }
+   pal 10 { file "highresNR/screen/meters/5036_10.png" }
+   pal 11 { file "highresNR/screen/meters/5036_11.png" }
+   pal 12 { file "highresNR/screen/meters/5036_12.png" }
+   pal 13 { file "highresNR/screen/meters/5036_13.png" }
+   pal 14 { file "highresNR/screen/meters/5036_14.png" }
+   pal 15 { file "highresNR/screen/meters/5036_15.png" }
+   pal 16 { file "highresNR/screen/meters/5036_16.png" }
+   pal 17 { file "highresNR/screen/meters/5036_11.png" }
+   pal 18 { file "highresNR/screen/meters/5036_12.png" }
+   pal 19 { file "highresNR/screen/meters/5036_12.png" }
+   pal 20 { file "highresNR/screen/meters/5036_12.png" }
+   pal 21 { file "highresNR/screen/meters/5036_21.png" }
+   pal 22 { file "highresNR/screen/meters/5036_11.png" }
+   pal 23 { file "highresNR/screen/meters/5036_23.png" }
+}
+
+texture 5037 {
+   pal 0 { file "highresNR/screen/meters/5037.png" }
+   pal 10 { file "highresNR/screen/meters/5037_10.png" }
+   pal 11 { file "highresNR/screen/meters/5037_11.png" }
+   pal 12 { file "highresNR/screen/meters/5037_12.png" }
+   pal 13 { file "highresNR/screen/meters/5037_13.png" }
+   pal 14 { file "highresNR/screen/meters/5037_14.png" }
+   pal 15 { file "highresNR/screen/meters/5037_15.png" }
+   pal 16 { file "highresNR/screen/meters/5037_16.png" }
+   pal 17 { file "highresNR/screen/meters/5037_11.png" }
+   pal 18 { file "highresNR/screen/meters/5037_12.png" }
+   pal 19 { file "highresNR/screen/meters/5037_12.png" }
+   pal 20 { file "highresNR/screen/meters/5037_12.png" }
+   pal 21 { file "highresNR/screen/meters/5037_21.png" }
+   pal 22 { file "highresNR/screen/meters/5037_11.png" }
+   pal 23 { file "highresNR/screen/meters/5037_23.png" }
+}
+
+texture 5038 {
+   pal 0 { file "highresNR/screen/meters/5038.png" }
+   pal 10 { file "highresNR/screen/meters/5038_10.png" }
+   pal 11 { file "highresNR/screen/meters/5038_11.png" }
+   pal 12 { file "highresNR/screen/meters/5038_12.png" }
+   pal 13 { file "highresNR/screen/meters/5038_13.png" }
+   pal 14 { file "highresNR/screen/meters/5038_14.png" }
+   pal 15 { file "highresNR/screen/meters/5038_15.png" }
+   pal 16 { file "highresNR/screen/meters/5038_16.png" }
+   pal 17 { file "highresNR/screen/meters/5038_11.png" }
+   pal 18 { file "highresNR/screen/meters/5038_12.png" }
+   pal 19 { file "highresNR/screen/meters/5038_12.png" }
+   pal 20 { file "highresNR/screen/meters/5038_12.png" }
+   pal 21 { file "highresNR/screen/meters/5038_21.png" }
+   pal 22 { file "highresNR/screen/meters/5038_11.png" }
+   pal 23 { file "highresNR/screen/meters/5038_23.png" }
+}
+
+texture 5039 {
+   pal 0 { file "highresNR/screen/meters/5039.png" }
+   pal 10 { file "highresNR/screen/meters/5039_10.png" }
+   pal 11 { file "highresNR/screen/meters/5039_11.png" }
+   pal 12 { file "highresNR/screen/meters/5039_12.png" }
+   pal 13 { file "highresNR/screen/meters/5039_13.png" }
+   pal 14 { file "highresNR/screen/meters/5039_14.png" }
+   pal 15 { file "highresNR/screen/meters/5039_15.png" }
+   pal 16 { file "highresNR/screen/meters/5039_16.png" }
+   pal 17 { file "highresNR/screen/meters/5039_11.png" }
+   pal 18 { file "highresNR/screen/meters/5039_12.png" }
+   pal 19 { file "highresNR/screen/meters/5039_12.png" }
+   pal 20 { file "highresNR/screen/meters/5039_12.png" }
+   pal 21 { file "highresNR/screen/meters/5039_21.png" }
+   pal 22 { file "highresNR/screen/meters/5039_11.png" }
+   pal 23 { file "highresNR/screen/meters/5039_23.png" }
+}
+
+texture 5040 {
+   pal 0 { file "highresNR/screen/meters/5040.png" }
+   pal 10 { file "highresNR/screen/meters/5040_10.png" }
+   pal 11 { file "highresNR/screen/meters/5040_11.png" }
+   pal 12 { file "highresNR/screen/meters/5040_12.png" }
+   pal 13 { file "highresNR/screen/meters/5040_13.png" }
+   pal 14 { file "highresNR/screen/meters/5040_14.png" }
+   pal 15 { file "highresNR/screen/meters/5040_15.png" }
+   pal 16 { file "highresNR/screen/meters/5040_16.png" }
+   pal 17 { file "highresNR/screen/meters/5040_11.png" }
+   pal 18 { file "highresNR/screen/meters/5040_12.png" }
+   pal 19 { file "highresNR/screen/meters/5040_12.png" }
+   pal 20 { file "highresNR/screen/meters/5040_12.png" }
+   pal 21 { file "highresNR/screen/meters/5040_21.png" }
+   pal 22 { file "highresNR/screen/meters/5040_11.png" }
+   pal 23 { file "highresNR/screen/meters/5040_23.png" }
+}
+
+texture 5041 {
+   pal 0 { file "highresNR/screen/meters/5041.png" }
+   pal 10 { file "highresNR/screen/meters/5041_10.png" }
+   pal 11 { file "highresNR/screen/meters/5041_11.png" }
+   pal 12 { file "highresNR/screen/meters/5041_12.png" }
+   pal 13 { file "highresNR/screen/meters/5041_13.png" }
+   pal 14 { file "highresNR/screen/meters/5041_14.png" }
+   pal 15 { file "highresNR/screen/meters/5041_15.png" }
+   pal 16 { file "highresNR/screen/meters/5041_16.png" }
+   pal 17 { file "highresNR/screen/meters/5041_11.png" }
+   pal 18 { file "highresNR/screen/meters/5041_12.png" }
+   pal 19 { file "highresNR/screen/meters/5041_12.png" }
+   pal 20 { file "highresNR/screen/meters/5041_12.png" }
+   pal 21 { file "highresNR/screen/meters/5041_21.png" }
+   pal 22 { file "highresNR/screen/meters/5041_11.png" }
+   pal 23 { file "highresNR/screen/meters/5041_23.png" }
+}
+
+texture 5042 {
+   pal 0 { file "highresNR/screen/meters/5042.png" }
+   pal 10 { file "highresNR/screen/meters/5042_10.png" }
+   pal 11 { file "highresNR/screen/meters/5042_11.png" }
+   pal 12 { file "highresNR/screen/meters/5042_12.png" }
+   pal 13 { file "highresNR/screen/meters/5042_13.png" }
+   pal 14 { file "highresNR/screen/meters/5042_14.png" }
+   pal 15 { file "highresNR/screen/meters/5042_15.png" }
+   pal 16 { file "highresNR/screen/meters/5042_16.png" }
+   pal 17 { file "highresNR/screen/meters/5042_11.png" }
+   pal 18 { file "highresNR/screen/meters/5042_12.png" }
+   pal 19 { file "highresNR/screen/meters/5042_12.png" }
+   pal 20 { file "highresNR/screen/meters/5042_12.png" }
+   pal 21 { file "highresNR/screen/meters/5042_21.png" }
+   pal 22 { file "highresNR/screen/meters/5042_11.png" }
+   pal 23 { file "highresNR/screen/meters/5042_23.png" }
+}
+
+texture 5043 {
+   pal 0 { file "highresNR/screen/meters/5043.png" }
+   pal 10 { file "highresNR/screen/meters/5043_10.png" }
+   pal 11 { file "highresNR/screen/meters/5043_11.png" }
+   pal 12 { file "highresNR/screen/meters/5043_12.png" }
+   pal 13 { file "highresNR/screen/meters/5043_13.png" }
+   pal 14 { file "highresNR/screen/meters/5043_14.png" }
+   pal 15 { file "highresNR/screen/meters/5043_15.png" }
+   pal 16 { file "highresNR/screen/meters/5043_16.png" }
+   pal 17 { file "highresNR/screen/meters/5043_11.png" }
+   pal 18 { file "highresNR/screen/meters/5043_12.png" }
+   pal 19 { file "highresNR/screen/meters/5043_12.png" }
+   pal 20 { file "highresNR/screen/meters/5043_12.png" }
+   pal 21 { file "highresNR/screen/meters/5043_21.png" }
+   pal 22 { file "highresNR/screen/meters/5043_11.png" }
+   pal 23 { file "highresNR/screen/meters/5043_23.png" }
+}
+
+texture 5044 {
+   pal 0 { file "highresNR/screen/meters/5044.png" }
+   pal 10 { file "highresNR/screen/meters/5044_10.png" }
+   pal 11 { file "highresNR/screen/meters/5044_11.png" }
+   pal 12 { file "highresNR/screen/meters/5044_12.png" }
+   pal 13 { file "highresNR/screen/meters/5044_13.png" }
+   pal 14 { file "highresNR/screen/meters/5044_14.png" }
+   pal 15 { file "highresNR/screen/meters/5044_15.png" }
+   pal 16 { file "highresNR/screen/meters/5044_16.png" }
+   pal 17 { file "highresNR/screen/meters/5044_11.png" }
+   pal 18 { file "highresNR/screen/meters/5044_12.png" }
+   pal 19 { file "highresNR/screen/meters/5044_12.png" }
+   pal 20 { file "highresNR/screen/meters/5044_12.png" }
+   pal 21 { file "highresNR/screen/meters/5044_21.png" }
+   pal 22 { file "highresNR/screen/meters/5044_11.png" }
+   pal 23 { file "highresNR/screen/meters/5044_23.png" }
+}
+
+texture 5045 {
+   pal 0 { file "highresNR/screen/meters/5045.png" }
+   pal 10 { file "highresNR/screen/meters/5045_10.png" }
+   pal 11 { file "highresNR/screen/meters/5045_11.png" }
+   pal 12 { file "highresNR/screen/meters/5045_12.png" }
+   pal 13 { file "highresNR/screen/meters/5045_13.png" }
+   pal 14 { file "highresNR/screen/meters/5045_14.png" }
+   pal 15 { file "highresNR/screen/meters/5045_15.png" }
+   pal 16 { file "highresNR/screen/meters/5045_16.png" }
+   pal 17 { file "highresNR/screen/meters/5045_11.png" }
+   pal 18 { file "highresNR/screen/meters/5045_12.png" }
+   pal 19 { file "highresNR/screen/meters/5045_12.png" }
+   pal 20 { file "highresNR/screen/meters/5045_12.png" }
+   pal 21 { file "highresNR/screen/meters/5045_21.png" }
+   pal 22 { file "highresNR/screen/meters/5045_11.png" }
+   pal 23 { file "highresNR/screen/meters/5045_23.png" }
+}
+
+texture 5046 {
+   pal 0 { file "highresNR/screen/meters/5046.png" }
+   pal 10 { file "highresNR/screen/meters/5046_10.png" }
+   pal 11 { file "highresNR/screen/meters/5046_11.png" }
+   pal 12 { file "highresNR/screen/meters/5046_12.png" }
+   pal 13 { file "highresNR/screen/meters/5046_13.png" }
+   pal 14 { file "highresNR/screen/meters/5046_14.png" }
+   pal 15 { file "highresNR/screen/meters/5046_15.png" }
+   pal 16 { file "highresNR/screen/meters/5046_16.png" }
+   pal 17 { file "highresNR/screen/meters/5046_11.png" }
+   pal 18 { file "highresNR/screen/meters/5046_12.png" }
+   pal 19 { file "highresNR/screen/meters/5046_12.png" }
+   pal 20 { file "highresNR/screen/meters/5046_12.png" }
+   pal 21 { file "highresNR/screen/meters/5046_21.png" }
+   pal 22 { file "highresNR/screen/meters/5046_11.png" }
+   pal 23 { file "highresNR/screen/meters/5046_23.png" }
+}
+
+texture 5047 {
+   pal 0 { file "highresNR/screen/meters/5047.png" }
+   pal 10 { file "highresNR/screen/meters/5047_10.png" }
+   pal 11 { file "highresNR/screen/meters/5047_11.png" }
+   pal 12 { file "highresNR/screen/meters/5047_12.png" }
+   pal 13 { file "highresNR/screen/meters/5047_13.png" }
+   pal 14 { file "highresNR/screen/meters/5047_14.png" }
+   pal 15 { file "highresNR/screen/meters/5047_15.png" }
+   pal 16 { file "highresNR/screen/meters/5047_16.png" }
+   pal 17 { file "highresNR/screen/meters/5047_11.png" }
+   pal 18 { file "highresNR/screen/meters/5047_12.png" }
+   pal 19 { file "highresNR/screen/meters/5047_12.png" }
+   pal 20 { file "highresNR/screen/meters/5047_12.png" }
+   pal 21 { file "highresNR/screen/meters/5047_21.png" }
+   pal 22 { file "highresNR/screen/meters/5047_11.png" }
+   pal 23 { file "highresNR/screen/meters/5047_23.png" }
+}
+
+texture 5048 {
+   pal 0 { file "highresNR/screen/meters/5048.png" }
+   pal 10 { file "highresNR/screen/meters/5048_10.png" }
+   pal 11 { file "highresNR/screen/meters/5048_11.png" }
+   pal 12 { file "highresNR/screen/meters/5048_12.png" }
+   pal 13 { file "highresNR/screen/meters/5048_13.png" }
+   pal 14 { file "highresNR/screen/meters/5048_14.png" }
+   pal 15 { file "highresNR/screen/meters/5048_15.png" }
+   pal 16 { file "highresNR/screen/meters/5048_16.png" }
+   pal 17 { file "highresNR/screen/meters/5048_11.png" }
+   pal 18 { file "highresNR/screen/meters/5048_12.png" }
+   pal 19 { file "highresNR/screen/meters/5048_12.png" }
+   pal 20 { file "highresNR/screen/meters/5048_12.png" }
+   pal 21 { file "highresNR/screen/meters/5048_21.png" }
+   pal 22 { file "highresNR/screen/meters/5048_11.png" }
+   pal 23 { file "highresNR/screen/meters/5048_23.png" }
+}
+
+texture 5049 {
+   pal 0 { file "highresNR/screen/meters/5049.png" }
+   pal 10 { file "highresNR/screen/meters/5049_10.png" }
+   pal 11 { file "highresNR/screen/meters/5049_11.png" }
+   pal 12 { file "highresNR/screen/meters/5049_12.png" }
+   pal 13 { file "highresNR/screen/meters/5049_13.png" }
+   pal 14 { file "highresNR/screen/meters/5049_14.png" }
+   pal 15 { file "highresNR/screen/meters/5049_15.png" }
+   pal 16 { file "highresNR/screen/meters/5049_16.png" }
+   pal 17 { file "highresNR/screen/meters/5049_11.png" }
+   pal 18 { file "highresNR/screen/meters/5049_12.png" }
+   pal 19 { file "highresNR/screen/meters/5049_12.png" }
+   pal 20 { file "highresNR/screen/meters/5049_12.png" }
+   pal 21 { file "highresNR/screen/meters/5049_21.png" }
+   pal 22 { file "highresNR/screen/meters/5049_11.png" }
+   pal 23 { file "highresNR/screen/meters/5049_23.png" }
+}
+
+texture 5050 {
+   pal 0 { file "highresNR/screen/meters/5050.png" }
+   pal 10 { file "highresNR/screen/meters/5050_10.png" }
+   pal 11 { file "highresNR/screen/meters/5050_11.png" }
+   pal 12 { file "highresNR/screen/meters/5050_12.png" }
+   pal 13 { file "highresNR/screen/meters/5050_13.png" }
+   pal 14 { file "highresNR/screen/meters/5050_14.png" }
+   pal 15 { file "highresNR/screen/meters/5050_15.png" }
+   pal 16 { file "highresNR/screen/meters/5050_16.png" }
+   pal 17 { file "highresNR/screen/meters/5050_11.png" }
+   pal 18 { file "highresNR/screen/meters/5050_12.png" }
+   pal 19 { file "highresNR/screen/meters/5050_12.png" }
+   pal 20 { file "highresNR/screen/meters/5050_12.png" }
+   pal 21 { file "highresNR/screen/meters/5050_21.png" }
+   pal 22 { file "highresNR/screen/meters/5050_11.png" }
+   pal 23 { file "highresNR/screen/meters/5050_23.png" }
+}
+
+texture 5051 {
+   pal 0 { file "highresNR/screen/meters/5051.png" }
+   pal 10 { file "highresNR/screen/meters/5051_10.png" }
+   pal 11 { file "highresNR/screen/meters/5051_11.png" }
+   pal 12 { file "highresNR/screen/meters/5051_12.png" }
+   pal 13 { file "highresNR/screen/meters/5051_13.png" }
+   pal 14 { file "highresNR/screen/meters/5051_14.png" }
+   pal 15 { file "highresNR/screen/meters/5051_15.png" }
+   pal 16 { file "highresNR/screen/meters/5051_16.png" }
+   pal 17 { file "highresNR/screen/meters/5051_11.png" }
+   pal 18 { file "highresNR/screen/meters/5051_12.png" }
+   pal 19 { file "highresNR/screen/meters/5051_12.png" }
+   pal 20 { file "highresNR/screen/meters/5051_12.png" }
+   pal 21 { file "highresNR/screen/meters/5051_21.png" }
+   pal 22 { file "highresNR/screen/meters/5051_11.png" }
+   pal 23 { file "highresNR/screen/meters/5051_23.png" }
+}
+
+texture 5052 {
+   pal 0 { file "highresNR/screen/meters/5052.png" }
+   pal 10 { file "highresNR/screen/meters/5052_10.png" }
+   pal 11 { file "highresNR/screen/meters/5052_11.png" }
+   pal 12 { file "highresNR/screen/meters/5052_12.png" }
+   pal 13 { file "highresNR/screen/meters/5052_13.png" }
+   pal 14 { file "highresNR/screen/meters/5052_14.png" }
+   pal 15 { file "highresNR/screen/meters/5052_15.png" }
+   pal 16 { file "highresNR/screen/meters/5052_16.png" }
+   pal 17 { file "highresNR/screen/meters/5052_11.png" }
+   pal 18 { file "highresNR/screen/meters/5052_12.png" }
+   pal 19 { file "highresNR/screen/meters/5052_12.png" }
+   pal 20 { file "highresNR/screen/meters/5052_12.png" }
+   pal 21 { file "highresNR/screen/meters/5052_21.png" }
+   pal 22 { file "highresNR/screen/meters/5052_11.png" }
+   pal 23 { file "highresNR/screen/meters/5052_23.png" }
+}
+
+texture 5053 {
+   pal 0 { file "highresNR/screen/meters/5053.png" }
+   pal 10 { file "highresNR/screen/meters/5053_10.png" }
+   pal 11 { file "highresNR/screen/meters/5053_11.png" }
+   pal 12 { file "highresNR/screen/meters/5053_12.png" }
+   pal 13 { file "highresNR/screen/meters/5053_13.png" }
+   pal 14 { file "highresNR/screen/meters/5053_14.png" }
+   pal 15 { file "highresNR/screen/meters/5053_15.png" }
+   pal 16 { file "highresNR/screen/meters/5053_16.png" }
+   pal 17 { file "highresNR/screen/meters/5053_11.png" }
+   pal 18 { file "highresNR/screen/meters/5053_12.png" }
+   pal 19 { file "highresNR/screen/meters/5053_12.png" }
+   pal 20 { file "highresNR/screen/meters/5053_12.png" }
+   pal 21 { file "highresNR/screen/meters/5053_21.png" }
+   pal 22 { file "highresNR/screen/meters/5053_11.png" }
+   pal 23 { file "highresNR/screen/meters/5053_23.png" }
+}
+
+texture 5054 {
+   pal 0 { file "highresNR/screen/meters/5054.png" }
+   pal 10 { file "highresNR/screen/meters/5054_10.png" }
+   pal 11 { file "highresNR/screen/meters/5054_11.png" }
+   pal 12 { file "highresNR/screen/meters/5054_12.png" }
+   pal 13 { file "highresNR/screen/meters/5054_13.png" }
+   pal 14 { file "highresNR/screen/meters/5054_14.png" }
+   pal 15 { file "highresNR/screen/meters/5054_15.png" }
+   pal 16 { file "highresNR/screen/meters/5054_16.png" }
+   pal 17 { file "highresNR/screen/meters/5054_11.png" }
+   pal 18 { file "highresNR/screen/meters/5054_12.png" }
+   pal 19 { file "highresNR/screen/meters/5054_12.png" }
+   pal 20 { file "highresNR/screen/meters/5054_12.png" }
+   pal 21 { file "highresNR/screen/meters/5054_21.png" }
+   pal 22 { file "highresNR/screen/meters/5054_11.png" }
+   pal 23 { file "highresNR/screen/meters/5054_23.png" }
+}
+
+texture 5055 {
+   pal 0 { file "highresNR/screen/meters/5055.png" }
+   pal 10 { file "highresNR/screen/meters/5055_10.png" }
+   pal 11 { file "highresNR/screen/meters/5055_11.png" }
+   pal 12 { file "highresNR/screen/meters/5055_12.png" }
+   pal 13 { file "highresNR/screen/meters/5055_13.png" }
+   pal 14 { file "highresNR/screen/meters/5055_14.png" }
+   pal 15 { file "highresNR/screen/meters/5055_15.png" }
+   pal 16 { file "highresNR/screen/meters/5055_16.png" }
+   pal 17 { file "highresNR/screen/meters/5055_11.png" }
+   pal 18 { file "highresNR/screen/meters/5055_12.png" }
+   pal 19 { file "highresNR/screen/meters/5055_12.png" }
+   pal 20 { file "highresNR/screen/meters/5055_12.png" }
+   pal 21 { file "highresNR/screen/meters/5055_21.png" }
+   pal 22 { file "highresNR/screen/meters/5055_11.png" }
+   pal 23 { file "highresNR/screen/meters/5055_23.png" }
+}
+
+texture 5056 {
+   pal 0 { file "highresNR/screen/meters/5056.png" }
+   pal 10 { file "highresNR/screen/meters/5056_10.png" }
+   pal 11 { file "highresNR/screen/meters/5056_11.png" }
+   pal 12 { file "highresNR/screen/meters/5056_12.png" }
+   pal 13 { file "highresNR/screen/meters/5056_13.png" }
+   pal 14 { file "highresNR/screen/meters/5056_14.png" }
+   pal 15 { file "highresNR/screen/meters/5056_15.png" }
+   pal 16 { file "highresNR/screen/meters/5056_16.png" }
+   pal 17 { file "highresNR/screen/meters/5056_11.png" }
+   pal 18 { file "highresNR/screen/meters/5056_12.png" }
+   pal 19 { file "highresNR/screen/meters/5056_12.png" }
+   pal 20 { file "highresNR/screen/meters/5056_12.png" }
+   pal 21 { file "highresNR/screen/meters/5056_21.png" }
+   pal 22 { file "highresNR/screen/meters/5056_11.png" }
+   pal 23 { file "highresNR/screen/meters/5056_23.png" }
+}
+
+texture 5057 {
+   pal 0 { file "highresNR/screen/meters/5057.png" }
+   pal 10 { file "highresNR/screen/meters/5057_10.png" }
+   pal 11 { file "highresNR/screen/meters/5057_11.png" }
+   pal 12 { file "highresNR/screen/meters/5057_12.png" }
+   pal 13 { file "highresNR/screen/meters/5057_13.png" }
+   pal 14 { file "highresNR/screen/meters/5057_14.png" }
+   pal 15 { file "highresNR/screen/meters/5057_15.png" }
+   pal 16 { file "highresNR/screen/meters/5057_16.png" }
+   pal 17 { file "highresNR/screen/meters/5057_11.png" }
+   pal 18 { file "highresNR/screen/meters/5057_12.png" }
+   pal 19 { file "highresNR/screen/meters/5057_12.png" }
+   pal 20 { file "highresNR/screen/meters/5057_12.png" }
+   pal 21 { file "highresNR/screen/meters/5057_21.png" }
+   pal 22 { file "highresNR/screen/meters/5057_11.png" }
+   pal 23 { file "highresNR/screen/meters/5057_23.png" }
+}
+
+texture 5058 {
+   pal 0 { file "highresNR/screen/meters/5058.png" }
+   pal 10 { file "highresNR/screen/meters/5058_10.png" }
+   pal 11 { file "highresNR/screen/meters/5058_11.png" }
+   pal 12 { file "highresNR/screen/meters/5058_12.png" }
+   pal 13 { file "highresNR/screen/meters/5058_13.png" }
+   pal 14 { file "highresNR/screen/meters/5058_14.png" }
+   pal 15 { file "highresNR/screen/meters/5058_15.png" }
+   pal 16 { file "highresNR/screen/meters/5058_16.png" }
+   pal 17 { file "highresNR/screen/meters/5058_11.png" }
+   pal 18 { file "highresNR/screen/meters/5058_12.png" }
+   pal 19 { file "highresNR/screen/meters/5058_12.png" }
+   pal 20 { file "highresNR/screen/meters/5058_12.png" }
+   pal 21 { file "highresNR/screen/meters/5058_21.png" }
+   pal 22 { file "highresNR/screen/meters/5058_11.png" }
+   pal 23 { file "highresNR/screen/meters/5058_23.png" }
+}
+
+texture 5059 {
+   pal 0 { file "highresNR/screen/meters/5059.png" }
+   pal 10 { file "highresNR/screen/meters/5059_10.png" }
+   pal 11 { file "highresNR/screen/meters/5059_11.png" }
+   pal 12 { file "highresNR/screen/meters/5059_12.png" }
+   pal 13 { file "highresNR/screen/meters/5059_13.png" }
+   pal 14 { file "highresNR/screen/meters/5059_14.png" }
+   pal 15 { file "highresNR/screen/meters/5059_15.png" }
+   pal 16 { file "highresNR/screen/meters/5059_16.png" }
+   pal 17 { file "highresNR/screen/meters/5059_11.png" }
+   pal 18 { file "highresNR/screen/meters/5059_12.png" }
+   pal 19 { file "highresNR/screen/meters/5059_12.png" }
+   pal 20 { file "highresNR/screen/meters/5059_12.png" }
+   pal 21 { file "highresNR/screen/meters/5059_21.png" }
+   pal 22 { file "highresNR/screen/meters/5059_11.png" }
+   pal 23 { file "highresNR/screen/meters/5059_23.png" }
+}
+
+texture 5060 {
+   pal 0 { file "highresNR/screen/meters/5060.png" }
+   pal 10 { file "highresNR/screen/meters/5060_10.png" }
+   pal 11 { file "highresNR/screen/meters/5060_11.png" }
+   pal 12 { file "highresNR/screen/meters/5060_12.png" }
+   pal 13 { file "highresNR/screen/meters/5060_13.png" }
+   pal 14 { file "highresNR/screen/meters/5060_14.png" }
+   pal 15 { file "highresNR/screen/meters/5060_15.png" }
+   pal 16 { file "highresNR/screen/meters/5060_16.png" }
+   pal 17 { file "highresNR/screen/meters/5060_11.png" }
+   pal 18 { file "highresNR/screen/meters/5060_12.png" }
+   pal 19 { file "highresNR/screen/meters/5060_12.png" }
+   pal 20 { file "highresNR/screen/meters/5060_12.png" }
+   pal 21 { file "highresNR/screen/meters/5060_21.png" }
+   pal 22 { file "highresNR/screen/meters/5060_11.png" }
+   pal 23 { file "highresNR/screen/meters/5060_23.png" }
+}
+
+texture 5061 {
+   pal 0 { file "highresNR/screen/meters/5061.png" }
+   pal 10 { file "highresNR/screen/meters/5061_10.png" }
+   pal 11 { file "highresNR/screen/meters/5061_11.png" }
+   pal 12 { file "highresNR/screen/meters/5061_12.png" }
+   pal 13 { file "highresNR/screen/meters/5061_13.png" }
+   pal 14 { file "highresNR/screen/meters/5061_14.png" }
+   pal 15 { file "highresNR/screen/meters/5061_15.png" }
+   pal 16 { file "highresNR/screen/meters/5061_16.png" }
+   pal 17 { file "highresNR/screen/meters/5061_11.png" }
+   pal 18 { file "highresNR/screen/meters/5061_12.png" }
+   pal 19 { file "highresNR/screen/meters/5061_12.png" }
+   pal 20 { file "highresNR/screen/meters/5061_12.png" }
+   pal 21 { file "highresNR/screen/meters/5061_21.png" }
+   pal 22 { file "highresNR/screen/meters/5061_11.png" }
+   pal 23 { file "highresNR/screen/meters/5061_23.png" }
+}
+
+texture 5062 {
+   pal 0 { file "highresNR/screen/meters/5062.png" }
+   pal 10 { file "highresNR/screen/meters/5062_10.png" }
+   pal 11 { file "highresNR/screen/meters/5062_11.png" }
+   pal 12 { file "highresNR/screen/meters/5062_12.png" }
+   pal 13 { file "highresNR/screen/meters/5062_13.png" }
+   pal 14 { file "highresNR/screen/meters/5062_14.png" }
+   pal 15 { file "highresNR/screen/meters/5062_15.png" }
+   pal 16 { file "highresNR/screen/meters/5062_16.png" }
+   pal 17 { file "highresNR/screen/meters/5062_11.png" }
+   pal 18 { file "highresNR/screen/meters/5062_12.png" }
+   pal 19 { file "highresNR/screen/meters/5062_12.png" }
+   pal 20 { file "highresNR/screen/meters/5062_12.png" }
+   pal 21 { file "highresNR/screen/meters/5062_21.png" }
+   pal 22 { file "highresNR/screen/meters/5062_11.png" }
+   pal 23 { file "highresNR/screen/meters/5062_23.png" }
+}
+
+

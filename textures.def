@@ -1,0 +1,16 @@
+include "highresNR/textures/NRatmbackgrounds.def"
+include "highresNR/textures/NRcustom.def"
+include "highresNR/textures/NRmagazinestands.def"
+include "highresNR/textures/NRtvscreens.def"
+include "highresNR/textures/NRVendingMachines.def"
+
+// From the Original HRP/Duke3D [for highlighting usuable features like ATMs, vending machines, etc]
+texture 866 { pal 0 { file "highresNR/textures/0866.jpg" } } // Base Bookshelf Frame
+texture 867 { pal 0 { file "highresNR/textures/0867.png" } } // ATM - Usable
+texture 888 { pal 0 { file "highresNR/textures/0888.png" } } // ATM - Broken/Unusable
+texture 1212 { pal 0 { file "highresNR/textures/1212.png" } } // Snack Machine - Front [Usable]
+texture 1213 { pal 0 { file "highresNR/textures/1213.png" } } // Snack Machine - Side/Back
+texture 1214 { pal 0 { file "highresNR/textures/1214.png" } } // Snack Machine - Front [Broken/Unusable] 
+texture 1215 { pal 0 { file "highresNR/textures/1215.png" } } // Cola Machine - Front [Usable]
+texture 1216 { pal 0 { file "highresNR/textures/1216.png" } } // Cola Machine - Side/Back
+texture 1217 { pal 0 { file "highresNR/textures/1217.png" } } // Cola Machine - Front [Broken/Unusable]

@@ -1,0 +1,28 @@
+// In-Game Portraits
+
+texture 7936 { pal 0 { file "highresNR/sprites/NRportraits/7936-256x256_Duke.png" } }
+texture 7937 { pal 0 { file "highresNR/sprites/NRportraits/7937-256x256_Jack.png" } }
+texture 7938 { pal 0 { file "highresNR/sprites/NRportraits/7938-256x256_BubsyNormalForm.png" } }
+texture 7939 { pal 0 { file "highresNR/sprites/NRportraits/7939-256x256_AmiCivilianForm.png" } }
+texture 7940 { pal 0 { file "highresNR/sprites/NRportraits/7940-256x256_LoWang.png" } }
+texture 7941 { pal 0 { file "highresNR/sprites/NRportraits/7941-256x256_ESSence.png" } }
+texture 7942 { pal 0 { file "highresNR/sprites/NRportraits/7942-256x256_Ted.png" } }
+texture 7943 { pal 0 { file "highresNR/sprites/NRportraits/7943-256x256_Lisa.png" } }
+texture 7944 { pal 0 { file "highresNR/sprites/NRportraits/7944-256x256_Cybanis.png" } }
+texture 7945 { pal 0 { file "highresNR/sprites/NRportraits/7945-256x256_NethraAlienForm.png" } }
+texture 7946 { pal 0 { file "highresNR/sprites/NRportraits/7946-256x256_Paula.png" } }
+texture 7947 { pal 0 { file "highresNR/sprites/NRportraits/7947-256x256_Lori.png" } }
+texture 7948 { pal 0 { file "highresNR/sprites/NRportraits/7948-256x256_MinakoCivilianForm.png" } }
+texture 7957 { pal 0 { file "highresNR/sprites/NRportraits/7957-256x256_MysteryLady.png" } }
+texture 7962 { pal 0 { file "highresNR/sprites/NRportraits/7962-256x256_BubsyTheMaskForm.png" } }
+texture 7963 { pal 0 { file "highresNR/sprites/NRportraits/7963-256x256_AmiSailorMercuryForm.png" } }
+texture 7964 { pal 0 { file "highresNR/sprites/NRportraits/7964-256x256_NethraHumanForm.png" } }
+texture 7965 { pal 0 { file "highresNR/sprites/NRportraits/7965-256x256_MinakoSailorVenusForm.png" } }
+texture 7966 { pal 0 { file "highresNR/sprites/NRportraits/7966-256x256_AmiBalancedForm.png" } }
+texture 7968 { pal 0 { file "highresNR/sprites/NRportraits/7968-256x256_MinakoBalancedForm.png" } }
+texture 7971 { pal 0 { file "highresNR/sprites/NRportraits/7971-256x256_Maken.png" } }
+
+texture 8045 { pal 0 { file "highresNR/sprites/NRportraits/8045-256x256_Bubba.png" } }
+texture 8046 { pal 0 { file "highresNR/sprites/NRportraits/8046-256x256_Fiona.png" } }
+texture 8047 { pal 0 { file "highresNR/sprites/NRportraits/8047-256x256_Riesbyfe.png" } }
+

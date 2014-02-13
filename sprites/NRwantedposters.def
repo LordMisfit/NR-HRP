@@ -1,0 +1,46 @@
+// Wanted Posters
+
+texture 8021 { pal 0 { file "highresNR/sprites/NRwantedposters/8021-376x336.png" } }
+texture 8022 { pal 0 { file "highresNR/sprites/NRwantedposters/8022-376x336.png" } }
+texture 8023 { pal 0 { file "highresNR/sprites/NRwantedposters/8023-376x336.png" } }
+texture 8024 { pal 0 { file "highresNR/sprites/NRwantedposters/8024-376x336.png" } }
+texture 8025 { pal 0 { file "highresNR/sprites/NRwantedposters/8025-376x336.png" } }
+texture 8026 { pal 0 { file "highresNR/sprites/NRwantedposters/8026-376x336.png" } }
+texture 8027 { pal 0 { file "highresNR/sprites/NRwantedposters/8027-376x336.png" } }
+texture 8028 { pal 0 { file "highresNR/sprites/NRwantedposters/8028-376x336.png" } }
+texture 8029 { pal 0 { file "highresNR/sprites/NRwantedposters/8029-376x336.png" } }
+texture 8030 { pal 0 { file "highresNR/sprites/NRwantedposters/8030-376x336.png" } }
+texture 8031 { pal 0 { file "highresNR/sprites/NRwantedposters/8031-376x336.png" } }
+texture 8032 { pal 0 { file "highresNR/sprites/NRwantedposters/8032-376x336.png" } }
+texture 8033 { pal 0 { file "highresNR/sprites/NRwantedposters/8033-376x336.png" } }
+texture 8034 { pal 0 { file "highresNR/sprites/NRwantedposters/8034-376x336.png" } }
+texture 8035 { pal 0 { file "highresNR/sprites/NRwantedposters/8035-376x336.png" } }
+texture 8036 { pal 0 { file "highresNR/sprites/NRwantedposters/8036-376x336.png" } }
+texture 8037 { pal 0 { file "highresNR/sprites/NRwantedposters/8037-376x336.png" } }
+texture 8038 { pal 0 { file "highresNR/sprites/NRwantedposters/8038-376x336.png" } }
+texture 8039 { pal 0 { file "highresNR/sprites/NRwantedposters/8039-376x336.png" } }
+texture 8040 { pal 0 { file "highresNR/sprites/NRwantedposters/8040-376x336.png" } }
+texture 8041 { pal 0 { file "highresNR/sprites/NRwantedposters/8041-376x336.png" } }
+texture 8042 { pal 0 { file "highresNR/sprites/NRwantedposters/8042-376x336.png" } }
+
+texture 8051 { pal 0 { file "highresNR/sprites/NRwantedposters/8051-376x336.png" } }
+texture 8052 { pal 0 { file "highresNR/sprites/NRwantedposters/8052-376x336.png" } }
+texture 8053 { pal 0 { file "highresNR/sprites/NRwantedposters/8053-376x336.png" } }
+texture 8054 { pal 0 { file "highresNR/sprites/NRwantedposters/8054-376x336.png" } }
+texture 8055 { pal 0 { file "highresNR/sprites/NRwantedposters/8055-376x336.png" } }
+texture 8056 { pal 0 { file "highresNR/sprites/NRwantedposters/8056-376x336.png" } }
+texture 8057 { pal 0 { file "highresNR/sprites/NRwantedposters/8057-376x336.png" } }
+texture 8058 { pal 0 { file "highresNR/sprites/NRwantedposters/8058-376x336.png" } }
+texture 8059 { pal 0 { file "highresNR/sprites/NRwantedposters/8059-376x336.png" } }
+texture 8060 { pal 0 { file "highresNR/sprites/NRwantedposters/8060-376x336.png" } }
+texture 8061 { pal 0 { file "highresNR/sprites/NRwantedposters/8061-376x336.png" } }
+texture 8062 { pal 0 { file "highresNR/sprites/NRwantedposters/8062-376x336.png" } }
+texture 8063 { pal 0 { file "highresNR/sprites/NRwantedposters/8063-376x336.png" } }
+
+texture 8064 { pal 0 { file "highresNR/sprites/NRwantedposters/8064-376x336.png" } }
+texture 8065 { pal 0 { file "highresNR/sprites/NRwantedposters/8065-376x336.png" } }
+texture 8066 { pal 0 { file "highresNR/sprites/NRwantedposters/8066-376x336.png" } }
+texture 8067 { pal 0 { file "highresNR/sprites/NRwantedposters/8067-376x336.png" } }
+texture 8068 { pal 0 { file "highresNR/sprites/NRwantedposters/8068-376x336.png" } }
+texture 8069 { pal 0 { file "highresNR/sprites/NRwantedposters/8069-376x336.png" } }
+

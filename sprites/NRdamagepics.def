@@ -1,0 +1,21 @@
+// Damage Icons
+
+texture 7911 { pal 0 { file "highresNR/sprites/NRdamagepics/7911.png" } }
+texture 7912 { pal 0 { file "highresNR/sprites/NRdamagepics/7912.png" } }
+texture 7913 { pal 0 { file "highresNR/sprites/NRdamagepics/7913.png" } }
+texture 7914 { pal 0 { file "highresNR/sprites/NRdamagepics/7914.png" } }
+texture 7915 { pal 0 { file "highresNR/sprites/NRdamagepics/7915.png" } }
+texture 7916 { pal 0 { file "highresNR/sprites/NRdamagepics/7916.png" } }
+texture 7917 { pal 0 { file "highresNR/sprites/NRdamagepics/7917.png" } }
+texture 7918 { pal 0 { file "highresNR/sprites/NRdamagepics/7918.png" } }
+texture 7919 { pal 0 { file "highresNR/sprites/NRdamagepics/7919.png" } }
+texture 7920 { pal 0 { file "highresNR/sprites/NRdamagepics/7920.png" } }
+texture 7921 { pal 0 { file "highresNR/sprites/NRdamagepics/7921.png" } }
+texture 7922 { pal 0 { file "highresNR/sprites/NRdamagepics/7922.png" } }
+texture 7923 { pal 0 { file "highresNR/sprites/NRdamagepics/7923.png" } }
+texture 7924 { pal 0 { file "highresNR/sprites/NRdamagepics/7924.png" } }
+texture 7925 { pal 0 { file "highresNR/sprites/NRdamagepics/7925.png" } }
+texture 7926 { pal 0 { file "highresNR/sprites/NRdamagepics/7926.png" } }
+texture 7927 { pal 0 { file "highresNR/sprites/NRdamagepics/7927.png" } }
+texture 7928 { pal 0 { file "highresNR/sprites/NRdamagepics/7928.png" } }
+

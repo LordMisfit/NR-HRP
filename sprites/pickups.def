@@ -1,0 +1,257 @@
+
+// DukePlus-Style Crate
+model "highresNR/sprites/pickups/crate1.MD2"
+{
+  // scale 1.25
+  scale 5.00
+   skin { pal 0 file "highresNR/sprites/pickups/3521_woodcrate.jpg" }
+  frame { name "idle01"  tile 3522 }
+}
+
+model "highresNR/sprites/pickups/crate1.MD2"
+{
+  // scale 1.25
+  scale 5.00
+   skin { pal 0 file "highresNR/sprites/pickups/3522_metalcrate.jpg" }
+  frame { name "idle01"  tile 3521 }
+}
+
+texture 5174 { pal 0 { file "highresNR/sprites/pickups/Antidote.png" } } // Antidote (5174)
+texture 5181 { pal 0 { file "highresNR/sprites/pickups/Eyedrop.png" } } // Eyedrop (5181)
+texture 5182 { pal 0 { file "highresNR/sprites/pickups/Foghorn.png" } } // Foghorn (5182)
+texture 5249 { pal 0 { file "highresNR/sprites/pickups/Smallbag.png" } } // Small Satchel (5249)
+
+// Armor Items [long list]
+
+// Default& Super  Armor [Undamaged, Males] (54)
+model "highresNR/sprites/pickups/armoritems/0054_armor.md2" {
+   scale 1.5 shade 2
+   skin { pal 0 file "highresNR/sprites/pickups/armoritems/0054_armor.png" }
+   skin { pal 24 file "highresNR/sprites/pickups/armoritems/0066_superarmor.png" }
+   frame { name "frame1" tile 5384 }
+}
+
+// Default& Super  Armor [Damaged, Males] (54)
+model "highresNR/sprites/pickups/armoritems/0054_armor.md2" {
+   scale 1.5 shade 2
+   skin { pal 0 file "highresNR/sprites/pickups/armoritems/0054_damagedarmor.png" }
+   skin { pal 24 file "highresNR/sprites/pickups/armoritems/0066_damagedsuperarmor.png" }
+   frame { name "frame1" tile 5533 }
+}
+
+// Colored/Random Armor [Undamaged, Males] (67)
+model "highresNR/sprites/pickups/armoritems/0054_armor.md2" {
+   scale 1.5 shade 2
+   skin { pal 0 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal0.png" }
+   skin { pal 10 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal10.png" }
+   skin { pal 11 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal11.png" }
+   skin { pal 12 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal12.png" }
+   skin { pal 13 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal13.png" }
+   skin { pal 14 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal14.png" }
+   skin { pal 15 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal15.png" }
+   skin { pal 16 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal16.png" }
+   skin { pal 17 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal11.png" }
+   skin { pal 18 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal12.png" }
+   skin { pal 19 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal12.png" }
+   skin { pal 20 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal12.png" }
+   skin { pal 21 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal21.png" }
+   skin { pal 22 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal11.png" }
+   skin { pal 23 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal23.png" }
+//   frame { name "frame1" tile 67 }
+   frame { name "frame1" tile 5414 }
+}
+
+// Colored/Random Armor [Damaged, Males] (67)
+model "highresNR/sprites/pickups/armoritems/0054_armor.md2" {
+   scale 1.5 shade 2
+   skin { pal 0 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal0.png" }
+   skin { pal 10 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal10.png" }
+   skin { pal 11 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal11.png" }
+   skin { pal 12 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal12.png" }
+   skin { pal 13 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal13.png" }
+   skin { pal 14 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal14.png" }
+   skin { pal 15 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal15.png" }
+   skin { pal 16 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal16.png" }
+   skin { pal 17 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal11.png" }
+   skin { pal 18 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal12.png" }
+   skin { pal 19 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal12.png" }
+   skin { pal 20 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal12.png" }
+   skin { pal 21 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal21.png" }
+   skin { pal 22 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal11.png" }
+   skin { pal 23 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal23.png" }
+   frame { name "frame1" tile 5529 }
+}
+
+// Default & Super Armor [Undamaged, Females] (54)
+model "highresNR/sprites/pickups/armoritems/0054_armor.md2" {
+   scale 1.225 shade 2
+   skin { pal 0 file "highresNR/sprites/pickups/armoritems/0054_femalearmor.png" }
+   skin { pal 24 file "highresNR/sprites/pickups/armoritems/0066_femalesuperarmor.png" }
+   frame { name "frame1" tile 5383 }
+}
+
+// Default & Super Armor [Damaged, Females] (54)
+model "highresNR/sprites/pickups/armoritems/0054_armor.md2" {
+   scale 1.225 shade 2
+   skin { pal 0 file "highresNR/sprites/pickups/armoritems/0054_femaledamagedarmor.png" }
+   skin { pal 24 file "highresNR/sprites/pickups/armoritems/0066_femaledamagedsuperarmor.png" }
+   frame { name "frame1" tile 5532 }
+}
+
+// Colored/Random Armor [Undamaged, Females] (67)
+model "highresNR/sprites/pickups/armoritems/0054_armor.md2" {
+   scale 1.225 shade 2
+   skin { pal 0 file "highresNR/sprites/pickups/armoritems/0067_femalecoloredarmor_pal0.png" }
+   skin { pal 10 file "highresNR/sprites/pickups/armoritems/0067_femalecoloredarmor_pal10.png" }
+   skin { pal 11 file "highresNR/sprites/pickups/armoritems/0067_femalecoloredarmor_pal11.png" }
+   skin { pal 12 file "highresNR/sprites/pickups/armoritems/0067_femalecoloredarmor_pal12.png" }
+   skin { pal 13 file "highresNR/sprites/pickups/armoritems/0067_femalecoloredarmor_pal13.png" }
+   skin { pal 14 file "highresNR/sprites/pickups/armoritems/0067_femalecoloredarmor_pal14.png" }
+   skin { pal 15 file "highresNR/sprites/pickups/armoritems/0067_femalecoloredarmor_pal15.png" }
+   skin { pal 16 file "highresNR/sprites/pickups/armoritems/0067_femalecoloredarmor_pal16.png" }
+   skin { pal 17 file "highresNR/sprites/pickups/armoritems/0067_femalecoloredarmor_pal11.png" }
+   skin { pal 18 file "highresNR/sprites/pickups/armoritems/0067_femalecoloredarmor_pal12.png" }
+   skin { pal 19 file "highresNR/sprites/pickups/armoritems/0067_femalecoloredarmor_pal12.png" }
+   skin { pal 20 file "highresNR/sprites/pickups/armoritems/0067_femalecoloredarmor_pal12.png" }
+   skin { pal 21 file "highresNR/sprites/pickups/armoritems/0067_femalecoloredarmor_pal21.png" }
+   skin { pal 22 file "highresNR/sprites/pickups/armoritems/0067_femalecoloredarmor_pal11.png" }
+   skin { pal 23 file "highresNR/sprites/pickups/armoritems/0067_femalecoloredarmor_pal23.png" }
+   frame { name "frame1" tile 5416 }
+}
+
+// Colored/Random Armor [Damaged, Females] (67)
+model "highresNR/sprites/pickups/armoritems/0054_armor.md2" {
+   scale 1.225 shade 2
+   skin { pal 0 file "highresNR/sprites/pickups/armoritems/0067_femaledamagedcoloredarmor_pal0.png" }
+   skin { pal 10 file "highresNR/sprites/pickups/armoritems/0067_femaledamagedcoloredarmor_pal10.png" }
+   skin { pal 11 file "highresNR/sprites/pickups/armoritems/0067_femaledamagedcoloredarmor_pal11.png" }
+   skin { pal 12 file "highresNR/sprites/pickups/armoritems/0067_femaledamagedcoloredarmor_pal12.png" }
+   skin { pal 13 file "highresNR/sprites/pickups/armoritems/0067_femaledamagedcoloredarmor_pal13.png" }
+   skin { pal 14 file "highresNR/sprites/pickups/armoritems/0067_femaledamagedcoloredarmor_pal14.png" }
+   skin { pal 15 file "highresNR/sprites/pickups/armoritems/0067_femaledamagedcoloredarmor_pal15.png" }
+   skin { pal 16 file "highresNR/sprites/pickups/armoritems/0067_femaledamagedcoloredarmor_pal16.png" }
+   skin { pal 17 file "highresNR/sprites/pickups/armoritems/0067_femaledamagedcoloredarmor_pal11.png" }
+   skin { pal 18 file "highresNR/sprites/pickups/armoritems/0067_femaledamagedcoloredarmor_pal12.png" }
+   skin { pal 19 file "highresNR/sprites/pickups/armoritems/0067_femaledamagedcoloredarmor_pal12.png" }
+   skin { pal 20 file "highresNR/sprites/pickups/armoritems/0067_femaledamagedcoloredarmor_pal12.png" }
+   skin { pal 21 file "highresNR/sprites/pickups/armoritems/0067_femaledamagedcoloredarmor_pal21.png" }
+   skin { pal 22 file "highresNR/sprites/pickups/armoritems/0067_femaledamagedcoloredarmor_pal11.png" }
+   skin { pal 23 file "highresNR/sprites/pickups/armoritems/0067_femaledamagedcoloredarmor_pal23.png" }
+   frame { name "frame1" tile 5528 }
+}
+
+// Default & Super Armor [Undamaged, ESSence] (54)
+model "highresNR/sprites/pickups/armoritems/0054_armor.md2" {
+   scale 2.075 shade 2
+   skin { pal 0 file "highresNR/sprites/pickups/armoritems/0054_armor.png" }
+   skin { pal 24 file "highresNR/sprites/pickups/armoritems/0066_superarmor.png" }
+   frame { name "frame1" tile 5381 }
+}
+
+// Default & Super Armor [Damaged, ESSence] (54)
+model "highresNR/sprites/pickups/armoritems/0054_armor.md2" {
+   scale 2.075 shade 2
+   skin { pal 0 file "highresNR/sprites/pickups/armoritems/0054_damagedarmor.png" }
+   skin { pal 24 file "highresNR/sprites/pickups/armoritems/0066_damagedsuperarmor.png" }
+   frame { name "frame1" tile 5530 }
+}
+
+// Colored/Random Armor [Undamaged, ESSence] (67)
+model "highresNR/sprites/pickups/armoritems/0054_armor.md2" {
+   scale 2.075 shade 2
+   skin { pal 0 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal0.png" }
+   skin { pal 10 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal10.png" }
+   skin { pal 11 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal11.png" }
+   skin { pal 12 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal12.png" }
+   skin { pal 13 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal13.png" }
+   skin { pal 14 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal14.png" }
+   skin { pal 15 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal15.png" }
+   skin { pal 16 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal16.png" }
+   skin { pal 17 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal11.png" }
+   skin { pal 18 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal12.png" }
+   skin { pal 19 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal12.png" }
+   skin { pal 20 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal12.png" }
+   skin { pal 21 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal21.png" }
+   skin { pal 22 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal11.png" }
+   skin { pal 23 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal23.png" }
+   frame { name "frame1" tile 5415 }
+}
+
+// Colored/Random Armor [Damaged, ESSence] (67)
+model "highresNR/sprites/pickups/armoritems/0054_armor.md2" {
+   scale 2.075 shade 2
+   skin { pal 0 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal0.png" }
+   skin { pal 10 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal10.png" }
+   skin { pal 11 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal11.png" }
+   skin { pal 12 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal12.png" }
+   skin { pal 13 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal13.png" }
+   skin { pal 14 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal14.png" }
+   skin { pal 15 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal15.png" }
+   skin { pal 16 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal16.png" }
+   skin { pal 17 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal11.png" }
+   skin { pal 18 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal12.png" }
+   skin { pal 19 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal12.png" }
+   skin { pal 20 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal12.png" }
+   skin { pal 21 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal21.png" }
+   skin { pal 22 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal11.png" }
+   skin { pal 23 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal23.png" }
+   frame { name "frame1" tile 5526 }
+}
+
+// Default & Super Armor [Undamaged, Cybanis] (54)
+model "highresNR/sprites/pickups/armoritems/0054_armor.md2" {
+   scale 2.15 shade 2
+   skin { pal 0 file "highresNR/sprites/pickups/armoritems/0054_armor.png" }
+   skin { pal 24 file "highresNR/sprites/pickups/armoritems/0066_superarmor.png" }
+   frame { name "frame1" tile 5382 }
+}
+
+// Default & Super Armor [Damaged, Cybanis] (54)
+model "highresNR/sprites/pickups/armoritems/0054_armor.md2" {
+   scale 2.15 shade 2
+   skin { pal 0 file "highresNR/sprites/pickups/armoritems/0054_damagedarmor.png" }
+   skin { pal 24 file "highresNR/sprites/pickups/armoritems/0066_damagedsuperarmor.png" }
+   frame { name "frame1" tile 5531 }
+}
+
+// Colored/Random Armor [Undamaged, Cybanis] (67)
+model "highresNR/sprites/pickups/armoritems/0054_armor.md2" {
+   scale 2.15 shade 2
+   skin { pal 0 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal0.png" }
+   skin { pal 10 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal10.png" }
+   skin { pal 11 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal11.png" }
+   skin { pal 12 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal12.png" }
+   skin { pal 13 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal13.png" }
+   skin { pal 14 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal14.png" }
+   skin { pal 15 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal15.png" }
+   skin { pal 16 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal16.png" }
+   skin { pal 17 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal11.png" }
+   skin { pal 18 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal12.png" }
+   skin { pal 19 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal12.png" }
+   skin { pal 20 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal12.png" }
+   skin { pal 21 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal21.png" }
+   skin { pal 22 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal11.png" }
+   skin { pal 23 file "highresNR/sprites/pickups/armoritems/0067_coloredarmor_pal23.png" }
+   frame { name "frame1" tile 5421 }
+}
+
+// Colored/Random Armor [Damaged, Cybanis] (67)
+model "highresNR/sprites/pickups/armoritems/0054_armor.md2" {
+   scale 2.15 shade 2
+   skin { pal 0 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal0.png" }
+   skin { pal 10 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal10.png" }
+   skin { pal 11 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal11.png" }
+   skin { pal 12 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal12.png" }
+   skin { pal 13 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal13.png" }
+   skin { pal 14 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal14.png" }
+   skin { pal 15 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal15.png" }
+   skin { pal 16 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal16.png" }
+   skin { pal 17 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal11.png" }
+   skin { pal 18 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal12.png" }
+   skin { pal 19 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal12.png" }
+   skin { pal 20 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal12.png" }
+   skin { pal 21 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal21.png" }
+   skin { pal 22 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal11.png" }
+   skin { pal 23 file "highresNR/sprites/pickups/armoritems/0067_damagedcoloredarmor_pal23.png" }
+   frame { name "frame1" tile 5527 }
+}

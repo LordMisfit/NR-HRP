@@ -1,0 +1,376 @@
+//******************
+//*Memorbilia Items*
+//******************
+
+// Classic Memorbilia
+// Fem Mag 1 [Memorbilia]
+texture 568 { 
+   pal  0 { file "highres/sprites/props/0568.png" }
+   pal 21 { file "highres/sprites/props/0568_21.png" }
+}
+
+// Fem Mag 2 [Memorbilia]
+texture 577 { pal 0 { file "highres/sprites/signs/0577.png" } }
+model "highres/sprites/signs/0577_femmag2.md2" {
+   scale 0.15 shade 0
+   skin { pal 0 file "highres/sprites/signs/0577_femmag2.png" }
+   frame { name "577" tile 577 }
+}
+
+// TV Guide: "Lord of the CockRings" [Memorbilia]
+texture 4449 { pal 0 { file "highres/sprites/signs/4449.png" } }
+// Atomic Edition Fem-Poster [Memorbilia]
+texture 4498 { pal 0 { file "highres/sprites/signs/4498.jpg" } }
+// Big Gun Magazine [Memorbilia]
+texture 4506 { pal 0 { file "highres/sprites/signs/4506.png" } }
+// Ammo Monthly [Memorbilia]
+texture 4507 { pal 0 { file "highres/sprites/signs/4507.png" } }
+// "Sister Act IV" Movie Mini-Poster [Memorbilia]
+texture 4945 { pal 0 { file "highres/sprites/signs/4945.jpg" } }
+
+// Erotica [Japanese-style] [Memorbilia]
+texture 766 { pal 0 { file "highres/sprites/signs/0766.jpg" } }
+// Lunar Apocalypse Poster [Memorbilia]
+texture 826 { pal 0 { file "highres/sprites/signs/0826.png" } }
+// "TONIGHT: HOT HOT HOT" Bar Poster [Memorbilia]
+texture 963 { pal 0 { file "highres/sprites/signs/0963.jpg" } }
+// "Sister Act III" Movie Poster [Memorbilia]
+texture 964 { pal 0 { file "highres/sprites/signs/0964.jpg" } }
+// "Bleached Blonde Biker Bimbos" Movie Poster [Memorbilia]
+texture 965 { pal 0 { file "highres/sprites/signs/0965.jpg" } }
+// "Byte-Nite" Movie Poster [Memorbilia]
+texture 970 { pal 0 { file "highres/sprites/signs/0970.png" } }
+// Lunar Apocalypse Poster (Squished-version) [Memorbilia]
+texture 3391 { pal 0 { file "highres/sprites/signs/3391.jpg" } }
+
+
+// NR-Specfic Memorbilia
+
+// (tile 3737)
+// "Sleeping With the Enemy" Poster [Memorbilia]
+texture 3738 { pal 0 { file "highresNR/sprites/NRmemorbilia/3738.png" } }
+// "Ducats" Poster [Memorbilia]
+texture 3739 { pal 0 { file "highresNR/sprites/NRmemorbilia/3739.png" } }
+// (tile 3740)
+
+// "Viva Las Vegas" Poster [Memorbilia]
+texture 3871 { pal 0 { file "highresNR/sprites/NRmemorbilia/3871.png" } }
+
+// "Duke Nukem 3D: Plutonium Pack" Poster w/ Battlelord [Memorbilia]
+texture 5171 { pal 0 { file "highresNR/sprites/NRmemorbilia/5171.png" } }
+// "Duke Nukem Forever: $500000 Reward" Wanted Poster [Memorbilia]
+texture 5173 { pal 0 { file "highresNR/sprites/NRmemorbilia/5173.png" } }
+
+// "The Misfits: Series 1" Movie Poster [Memorbilia]
+texture 5369 { pal 0 { file "highresNR/sprites/NRmemorbilia/5369.png" } }
+// "The Misfits: Series 1" Movie Poster w/ URL [Memorbilia]
+texture 5370 { pal 0 { file "highresNR/sprites/NRmemorbilia/5370.png" } }
+
+// "Vauge" Magazine - July 1997: Maken Shinkara [Memorbilia]
+texture 5449 { pal 0 { file "highresNR/sprites/NRmemorbilia/5449.png" } }
+texture 5450 { pal 0 { file "highresNR/sprites/NRmemorbilia/5450.png" } }
+texture 5451 { pal 0 { file "highresNR/sprites/NRmemorbilia/5451.png" } }
+texture 5452 { pal 0 { file "highresNR/sprites/NRmemorbilia/5452.png" } }
+texture 5453 { pal 0 { file "highresNR/sprites/NRmemorbilia/5453.png" } }
+
+// "Vauge" Magazine - August 1997: Hinotori Genkai [Memorbilia]
+texture 5454 { pal 0 { file "highresNR/sprites/NRmemorbilia/5454.png" } }
+texture 5455 { pal 0 { file "highresNR/sprites/NRmemorbilia/5455.png" } }
+texture 5456 { pal 0 { file "highresNR/sprites/NRmemorbilia/5456.png" } }
+texture 5457 { pal 0 { file "highresNR/sprites/NRmemorbilia/5457.png" } }
+texture 5458 { pal 0 { file "highresNR/sprites/NRmemorbilia/5458.png" } }
+
+// "Vauge" Magazine - May 1997: Christina Mitchell [Memorbilia]
+texture 5459 { pal 0 { file "highresNR/sprites/NRmemorbilia/5459.png" } }
+texture 5460 { pal 0 { file "highresNR/sprites/NRmemorbilia/5460.png" } }
+texture 5461 { pal 0 { file "highresNR/sprites/NRmemorbilia/5461.png" } }
+texture 5462 { pal 0 { file "highresNR/sprites/NRmemorbilia/5462.png" } }
+texture 5463 { pal 0 { file "highresNR/sprites/NRmemorbilia/5463.png" } }
+
+// "Guns & Weapons" - June 1997: Duke Nukem [Memorbilia]
+texture 5464 { pal 0 { file "highresNR/sprites/NRmemorbilia/5464.png" } }
+texture 5465 { pal 0 { file "highresNR/sprites/NRmemorbilia/5465.png" } }
+texture 5466 { pal 0 { file "highresNR/sprites/NRmemorbilia/5466.png" } }
+texture 5467 { pal 0 { file "highresNR/sprites/NRmemorbilia/5467.png" } }
+texture 5468 { pal 0 { file "highresNR/sprites/NRmemorbilia/5468.png" } }
+
+// "Vauge" Magazine - September 1997: Lori Stephens [Memorbilia]
+texture 5469 { pal 0 { file "highresNR/sprites/NRmemorbilia/5469.png" } }
+texture 5470 { pal 0 { file "highresNR/sprites/NRmemorbilia/5470.png" } }
+texture 5471 { pal 0 { file "highresNR/sprites/NRmemorbilia/5471.png" } }
+texture 5472 { pal 0 { file "highresNR/sprites/NRmemorbilia/5472.png" } }
+texture 5473 { pal 0 { file "highresNR/sprites/NRmemorbilia/5473.png" } }
+
+// Animage "Canal Vorfeed" Magazine (Small) [Memorbilia]
+texture 5561 { pal 0 { file "highresNR/sprites/NRmemorbilia/5561.png" } }
+// Animage "Canal Vorfeed" Magazine (Medium) [Memorbilia]
+texture 5562 { pal 0 { file "highresNR/sprites/NRmemorbilia/5562.png" } }
+// Animage "Canal Vorfeed" Magazine (Large) [Memorbilia]
+texture 5563 { pal 0 { file "highresNR/sprites/NRmemorbilia/5563.png" } }
+
+// "Vauge" Magazine - June 1997: Lisa Bates [Memorbilia]
+texture 5916 { pal 0 { file "highresNR/sprites/NRmemorbilia/5916.png" } }
+texture 5917 { pal 0 { file "highresNR/sprites/NRmemorbilia/5917.png" } }
+texture 5919 { pal 0 { file "highresNR/sprites/NRmemorbilia/5919.png" } }
+texture 5920 { pal 0 { file "highresNR/sprites/NRmemorbilia/5920.png" } }
+texture 5925 { pal 0 { file "highresNR/sprites/NRmemorbilia/5925.png" } }
+
+// "Universia" Magazine - July 1997: Fiona Mayfield [Memorbilia]
+texture 5980 { pal 0 { file "highresNR/sprites/NRmemorbilia/5984.png" } }
+texture 5981 { pal 0 { file "highresNR/sprites/NRmemorbilia/5984.png" } }
+texture 5982 { pal 0 { file "highresNR/sprites/NRmemorbilia/5984.png" } }
+texture 5983 { pal 0 { file "highresNR/sprites/NRmemorbilia/5984.png" } }
+texture 5984 { pal 0 { file "highresNR/sprites/NRmemorbilia/5984.png" } }
+
+// "Universia" Magazine - August 1997: Riesbyfe Stridberg [Memorbilia]
+texture 5985 { pal 0 { file "highresNR/sprites/NRmemorbilia/5989.png" } }
+texture 5986 { pal 0 { file "highresNR/sprites/NRmemorbilia/5989.png" } }
+texture 5987 { pal 0 { file "highresNR/sprites/NRmemorbilia/5989.png" } }
+texture 5988 { pal 0 { file "highresNR/sprites/NRmemorbilia/5989.png" } }
+texture 5989 { pal 0 { file "highresNR/sprites/NRmemorbilia/5989.png" } }
+
+// "Universia" Magazine - March 2307: Flora Briscoletti [Memorbilia]
+texture 5990 { pal 0 { file "highresNR/sprites/NRmemorbilia/5994.png" } }
+texture 5991 { pal 0 { file "highresNR/sprites/NRmemorbilia/5994.png" } }
+texture 5992 { pal 0 { file "highresNR/sprites/NRmemorbilia/5994.png" } }
+texture 5993 { pal 0 { file "highresNR/sprites/NRmemorbilia/5994.png" } }
+texture 5994 { pal 0 { file "highresNR/sprites/NRmemorbilia/5994.png" } }
+
+// "Visible Frylock" Poster [Memorbilia]
+texture 6400 { pal 0 { file "highresNR/sprites/NRmemorbilia/6400.png" } }
+// "TMNT & Battletoads" Poster [Memorbilia]
+texture 6401 { pal 0 { file "highresNR/sprites/NRmemorbilia/6401.png" } }
+// "Buurby" Poster [Memorbilia]
+texture 6402 { pal 0 { file "highresNR/sprites/NRmemorbilia/6402.png" } }
+// "Battletoads" Poster [Memorbilia]
+texture 6403 { pal 0 { file "highresNR/sprites/NRmemorbilia/6403.png" } }
+// "Dragon Quest" Girls Poster [Memorbilia]
+texture 6404 { pal 0 { file "highresNR/sprites/NRmemorbilia/6404.png" } }
+// "Duke Nukem kills Battlelord" Poster [Memorbilia]
+texture 6405 { pal 0 { file "highresNR/sprites/NRmemorbilia/6405.png" } }
+// "Awesome" Motivation Poster [Memorbilia]
+texture 6406 { pal 0 { file "highresNR/sprites/NRmemorbilia/6406.png" } }
+// "Darkwing Duck" Poster [Memorbilia]
+texture 6407 { pal 0 { file "highresNR/sprites/NRmemorbilia/6407.png" } }
+// "Little Nemo vs. Nightmare King" Poster [Memorbilia]
+texture 6408 { pal 0 { file "highresNR/sprites/NRmemorbilia/6408.png" } }
+// "Zitz vs. Leonardo" Poster [Memorbilia]
+texture 6409 { pal 0 { file "highresNR/sprites/NRmemorbilia/6409.png" } }
+// "Stargate" Movie Poster [Memorbilia]
+texture 6410 { pal 0 { file "highresNR/sprites/NRmemorbilia/6410.png" } }
+// "Issac" Poster [Memorbilia]
+texture 6411 { pal 0 { file "highresNR/sprites/NRmemorbilia/6411.png" } }
+// "Kel'Thuzad and Naxxaramas" Poster [Memorbilia]
+texture 6412 { pal 0 { file "highresNR/sprites/NRmemorbilia/6412.png" } }
+// "Breath of Fire 2 Group" Poster [Memorbilia]
+texture 6413 { pal 0 { file "highresNR/sprites/NRmemorbilia/6413.png" } }
+// "Girl Pointing Down" Poster [Memorbilia]
+texture 6414 { pal 0 { file "highresNR/sprites/NRmemorbilia/6414.png" } }
+// "Fiona Mayfield" Poster [Memorbilia]
+texture 6415 { pal 0 { file "highresNR/sprites/NRmemorbilia/6415.png" } }
+// "Digital Girl" Poster [Memorbilia]
+texture 6416 { pal 0 { file "highresNR/sprites/NRmemorbilia/6416.png" } }
+// "Dragonball" Poster [Memorbilia]
+texture 6417 { pal 0 { file "highresNR/sprites/NRmemorbilia/6417.png" } }
+// "DB Manga Cover w/ Goku and Chichi" [Memorbilia]
+texture 6418 { pal 0 { file "highresNR/sprites/NRmemorbilia/6418.png" } }
+// "Most Valued Patron" Poster [Memorbilia]
+texture 6419 { pal 0 { file "highresNR/sprites/NRmemorbilia/6419.png" } }
+// "Tales of the Lensmen" Cover [Memorbilia]
+texture 6420 { pal 0 { file "highresNR/sprites/NRmemorbilia/6420.png" } }
+// "Read or Die" Poster [Memorbilia]
+texture 6421 { pal 0 { file "highresNR/sprites/NRmemorbilia/6421.png" } }
+// "Shadow Warrior: For Dead Eyes Only" Poster [Memorbilia]
+texture 6422 { pal 0 { file "highresNR/sprites/NRmemorbilia/6422.png" } }
+// "Shadow Warrior: You Only Die Twice" Poster [Memorbilia]
+texture 6423 { pal 0 { file "highresNR/sprites/NRmemorbilia/6423.png" } }
+// "Doom" Movie Poster [Memorbilia]
+texture 6424 { pal 0 { file "highresNR/sprites/NRmemorbilia/6424.png" } }
+// EGM #60 Cover [Memorbilia]
+texture 6425 { pal 0 { file "highresNR/sprites/NRmemorbilia/6425.png" } }
+// "Nocturne" Cover [Memorbilia]
+texture 6427 { pal 0 { file "highresNR/sprites/NRmemorbilia/6426.png" } }
+// "Invader Zim" Cover [Memorbilia]
+texture 6427 { pal 0 { file "highresNR/sprites/NRmemorbilia/6427.png" } }
+// "Home Alone 2" Movie Poster [Memorbilia]
+texture 6428 { pal 0 { file "highresNR/sprites/NRmemorbilia/6428.png" } }
+// "EarthBound" 'Movie' Poster [Memorbilia]
+texture 6429 { pal 0 { file "highresNR/sprites/NRmemorbilia/6429.png" } }
+// "Home Alone" Movie Poster [Memorbilia]
+texture 6430 { pal 0 { file "highresNR/sprites/NRmemorbilia/6430.png" } }
+// "Volcano" Movie Poster [Memorbilia]
+texture 6431 { pal 0 { file "highresNR/sprites/NRmemorbilia/6431.png" } }
+// "The Ultimate Doom" Poster [Memorbilia]
+texture 6432 { pal 0 { file "highresNR/sprites/NRmemorbilia/6432.png" } }
+// "Bob and George: The Comic Strip" Poster [Memorbilia]
+texture 6433 { pal 0 { file "highresNR/sprites/NRmemorbilia/6433.png" } }
+// "Hocus Pocus" Movie Poster [Memorbilia]
+texture 6434 { pal 0 { file "highresNR/sprites/NRmemorbilia/6434.png" } }
+// "Independance Day" Movie Poster [Memorbilia]
+texture 6435 { pal 0 { file "highresNR/sprites/NRmemorbilia/6435.png" } }
+// "Fetch Quest" Poster [Memorbilia]
+texture 6436 { pal 0 { file "highresNR/sprites/NRmemorbilia/6436.png" } }
+// "Balls of Steel" Movie Poster [Memorbilia]
+texture 6437 { pal 0 { file "highresNR/sprites/NRmemorbilia/6437.png" } }
+// "Arcana Heart" Movie Poster [Memorbilia]
+texture 6438 { pal 0 { file "highresNR/sprites/NRmemorbilia/6438.png" } }
+// "Dragonball Multiverse" Poster [Memorbilia]
+texture 6439 { pal 0 { file "highresNR/sprites/NRmemorbilia/6439.png" } }
+// "Eye of Horned Solitude" Movie Poster [Memorbilia]
+texture 6440 { pal 0 { file "highresNR/sprites/NRmemorbilia/6440.png" } }
+// "Pagan" Movie Poster [Memorbilia]
+texture 6441 { pal 0 { file "highresNR/sprites/NRmemorbilia/6441.png" } }
+// "Arcana Heart 2" Movie Poster [Memorbilia]
+texture 6442 { pal 0 { file "highresNR/sprites/NRmemorbilia/6442.png" } }
+// "The Man Eaters" Movie Poster [Memorbilia]
+texture 6443 { pal 0 { file "highresNR/sprites/NRmemorbilia/6443.png" } }
+// "Shredder: I Want You" Poster [Memorbilia]
+texture 6444 { pal 0 { file "highresNR/sprites/NRmemorbilia/6444.png" } }
+// "Sanderson Sisters!" Poster [Memorbilia]
+texture 6445 { pal 0 { file "highresNR/sprites/NRmemorbilia/6445.png" } }
+// "Raiden: I Want You" Poster
+texture 6446 { pal 0 { file "highresNR/sprites/NRmemorbilia/6446.png" } }
+// "Sub Zero Bros. 2" Poster
+texture 6447 { pal 0 { file "highresNR/sprites/NRmemorbilia/6447.png" } }
+// "GATO" Poster
+texture 6448 { pal 0 { file "highresNR/sprites/NRmemorbilia/6448.png" } }
+// "ChocoVania" Poster
+texture 6449 { pal 0 { file "highresNR/sprites/NRmemorbilia/6449.png" } }
+// "DooM TimE" Poster
+texture 6450 { pal 0 { file "highresNR/sprites/NRmemorbilia/6450.png" } }
+// "Scott Pilgrim" Poster #1
+texture 6451 { pal 0 { file "highresNR/sprites/NRmemorbilia/6451.png" } }
+// "Scott Pilgrim" Poster #2
+texture 6452 { pal 0 { file "highresNR/sprites/NRmemorbilia/6452.png" } }
+// "Stronger and Cooler" Poster
+texture 6453 { pal 0 { file "highresNR/sprites/NRmemorbilia/6453.png" } }
+// "Chain and Linear" Poster
+texture 6454 { pal 0 { file "highresNR/sprites/NRmemorbilia/6454.png" } }
+// "Keeping Score" Poster
+texture 6455 { pal 0 { file "highresNR/sprites/NRmemorbilia/6455.png" } }
+// "Pretty Feather" Poster
+texture 6456 { pal 0 { file "highresNR/sprites/NRmemorbilia/6456.png" } }
+// "The Lost Painting" Image [ONE OF A KIND IMAGE]
+texture 6457 { pal 0 { file "highresNR/sprites/NRmemorbilia/6457.png" } }
+
+// Anime Girl Pinup #1 [Memorbilia]
+texture 6528 { pal 0 { file "highresNR/sprites/NRmemorbilia/6528.png" } }
+// Anime Girl Pinup #2 [Memorbilia]
+texture 6529 { pal 0 { file "highresNR/sprites/NRmemorbilia/6529.png" } }
+// Anime Girl Pinup #3 [Memorbilia]
+texture 6530 { pal 0 { file "highresNR/sprites/NRmemorbilia/6530.png" } }
+// Anime Girl Pinup #4 [Memorbilia]
+texture 6531 { pal 0 { file "highresNR/sprites/NRmemorbilia/6531.png" } }
+// Anime Girl Pinup #5 [Memorbilia]
+texture 6532 { pal 0 { file "highresNR/sprites/NRmemorbilia/6532.png" } }
+// "Christina Mitchell" Autographed Cheerleader Poster # 1 [Memorbilia]
+texture 6533 { pal 0 { file "highresNR/sprites/NRmemorbilia/6533.png" } }
+// "Christina Mitchell" Autographed Cheerleader Poster # 2 [Memorbilia]
+texture 6534 { pal 0 { file "highresNR/sprites/NRmemorbilia/6534.png" } }
+// Anime Girl Pinup #6 [Memorbilia]
+texture 6535 { pal 0 { file "highresNR/sprites/NRmemorbilia/6535.png" } }
+// Anime Girl Pinup #7 [Memorbilia]
+texture 6536 { pal 0 { file "highresNR/sprites/NRmemorbilia/6536.png" } }
+// Anime Girl Pinup #8 [Memorbilia]
+texture 6537 { pal 0 { file "highresNR/sprites/NRmemorbilia/6537.png" } }
+// Anime Girl Pinup #9 [Memorbilia]
+texture 6538 { pal 0 { file "highresNR/sprites/NRmemorbilia/6538.png" } }
+// Anime Girl Pinup #10 [Memorbilia]
+texture 6539 { pal 0 { file "highresNR/sprites/NRmemorbilia/6539.png" } }
+// Anime Girl Pinup #11 [Memorbilia]
+texture 6540 { pal 0 { file "highresNR/sprites/NRmemorbilia/6540.png" } }
+// Anime Girl Pinup #12 [Memorbilia]
+texture 6541 { pal 0 { file "highresNR/sprites/NRmemorbilia/6541.png" } }
+// Anime Girl Pinup #13 [Memorbilia]
+texture 6542 { pal 0 { file "highresNR/sprites/NRmemorbilia/6542.png" } }
+// Anime Girl Pinup #14 [Memorbilia]
+texture 6543 { pal 0 { file "highresNR/sprites/NRmemorbilia/6543.png" } }
+// Anime Girl Pinup #15 [Memorbilia]
+texture 6544 { pal 0 { file "highresNR/sprites/NRmemorbilia/6544.png" } }
+// Anime Girl Pinup #16 [Memorbilia]
+texture 6545 { pal 0 { file "highresNR/sprites/NRmemorbilia/6545.png" } }
+// Anime Girl Pinup #17 [Memorbilia]
+texture 6546 { pal 0 { file "highresNR/sprites/NRmemorbilia/6546.png" } }
+// Anime Girl Pinup #18 [Memorbilia]
+texture 6547 { pal 0 { file "highresNR/sprites/NRmemorbilia/6547.png" } }
+// Anime Girl Pinup #19 [Memorbilia]
+texture 6548 { pal 0 { file "highresNR/sprites/NRmemorbilia/6548.png" } }
+// Anime Girl Pinup #20 [Memorbilia]
+texture 6549 { pal 0 { file "highresNR/sprites/NRmemorbilia/6549.png" } }
+// Anime Girl Pinup #21 [Memorbilia]
+texture 6550 { pal 0 { file "highresNR/sprites/NRmemorbilia/6550.png" } }
+// Anime Girl Pinup #22 [Memorbilia]
+texture 6551 { pal 0 { file "highresNR/sprites/NRmemorbilia/6551.png" } }
+// Anime Girl Pinup #23 [Memorbilia]
+texture 6552 { pal 0 { file "highresNR/sprites/NRmemorbilia/6552.png" } }
+// Anime Girl Pinup #24 [Memorbilia]
+texture 6553 { pal 0 { file "highresNR/sprites/NRmemorbilia/6553.png" } }
+// Anime Girl Pinup #25 [Memorbilia]
+texture 6554 { pal 0 { file "highresNR/sprites/NRmemorbilia/6554.png" } }
+// Anime Girl Pinup #26 [Memorbilia]
+texture 6555 { pal 0 { file "highresNR/sprites/NRmemorbilia/6555.png" } }
+// Anime Girl Pinup #27 [Memorbilia]
+texture 6556 { pal 0 { file "highresNR/sprites/NRmemorbilia/6556.png" } }
+// Anime Girl Pinup #28 [Memorbilia]
+texture 6557 { pal 0 { file "highresNR/sprites/NRmemorbilia/6557.png" } }
+// Anime Girl Pinup #29 [Memorbilia]
+texture 6558 { pal 0 { file "highresNR/sprites/NRmemorbilia/6558.png" } }
+// Anime Girl Pinup #30 [Memorbilia]
+texture 6559 { pal 0 { file "highresNR/sprites/NRmemorbilia/6559.png" } }
+// Anime Girl Pinup #31 [Memorbilia]
+texture 6560 { pal 0 { file "highresNR/sprites/NRmemorbilia/6560.png" } }
+// Anime Girl Pinup #32 [Memorbilia]
+texture 6561 { pal 0 { file "highresNR/sprites/NRmemorbilia/6561.png" } }
+// Anime Girl Pinup #33 [Memorbilia]
+texture 6562 { pal 0 { file "highresNR/sprites/NRmemorbilia/6562.png" } }
+// Anime Girl Pinup #34 [Memorbilia]
+texture 6563 { pal 0 { file "highresNR/sprites/NRmemorbilia/6563.png" } }
+// Anime Girl Pinup #35 [Memorbilia]
+texture 6564 { pal 0 { file "highresNR/sprites/NRmemorbilia/6564.png" } }
+// Anime Girl Pinup #36 [Memorbilia]
+texture 6565 { pal 0 { file "highresNR/sprites/NRmemorbilia/6565.png" } }
+// Anime Girl Pinup #37 [Memorbilia]
+texture 6566 { pal 0 { file "highresNR/sprites/NRmemorbilia/6566.png" } }
+// Anime Girl Pinup #38 [Memorbilia]
+texture 6567 { pal 0 { file "highresNR/sprites/NRmemorbilia/6567.png" } }
+// Anime Girl Pinup #39 [Memorbilia]
+texture 6568 { pal 0 { file "highresNR/sprites/NRmemorbilia/6568.png" } }
+// Anime Girl Pinup #40 [Memorbilia]
+texture 6569 { pal 0 { file "highresNR/sprites/NRmemorbilia/6569.png" } }
+// Anime Girl Pinup #41 [Memorbilia]
+texture 6570 { pal 0 { file "highresNR/sprites/NRmemorbilia/6570.png" } }
+
+// "Eri Eri 666" Manga-Doujinshi [Memorbilia]
+texture 6652 { pal 0 { file "highresNR/sprites/NRmemorbilia/6652.png" } }
+texture 6653 { pal 0 { file "highresNR/sprites/NRmemorbilia/6653.png" } }
+texture 6654 { pal 0 { file "highresNR/sprites/NRmemorbilia/6654.png" } }
+texture 6655 { pal 0 { file "highresNR/sprites/NRmemorbilia/6655.png" } }
+
+// "Emilia and Seria" Poster [Memorbilia]
+texture 6923 { pal 0 { file "highresNR/sprites/NRmemorbilia/6923.png" } }
+
+// Shadow Warrior Anime Poster #1 [Memorbilia]
+texture 6953 { pal 0 { file "highresNR/sprites/NRmemorbilia/6953.png" } }
+// Shadow Warrior Anime Poster #2 [Memorbilia]
+texture 6954 { pal 0 { file "highresNR/sprites/NRmemorbilia/6954.png" } }
+// Shadow Warrior Anime Poster #3 [Memorbilia]
+texture 6955 { pal 0 { file "highresNR/sprites/NRmemorbilia/6955.png" } }
+// Shadow Warrior Anime Poster #4 [Memorbilia]
+texture 6956 { pal 0 { file "highresNR/sprites/NRmemorbilia/6956.png" } }
+// Shadow Warrior Anime Poster #5 [Memorbilia]
+texture 6957 { pal 0 { file "highresNR/sprites/NRmemorbilia/6957.png" } }
+
+// "Crime Crackers 2" Poster
+texture 6963 { pal 0 { file "highresNR/sprites/NRmemorbilia/6963.png" } }
+
+// Unsorted Names
+texture 7170 { pal 0 { file "highresNR/sprites/NRmemorbilia/7170.png" } }
+texture 7172 { pal 0 { file "highresNR/sprites/NRmemorbilia/7172.png" } }
+texture 7186 { pal 0 { file "highresNR/sprites/NRmemorbilia/7186.png" } }
+texture 7188 { pal 0 { file "highresNR/sprites/NRmemorbilia/7188.png" } }
+texture 7189 { pal 0 { file "highresNR/sprites/NRmemorbilia/7189.png" } }
+texture 7190 { pal 0 { file "highresNR/sprites/NRmemorbilia/7190.png" } }
+
+// Figurines
+// Heart Aino Figurine
+texture 7245 { pal 0 { file "highresNR/sprites/NRmemorbilia/7245.png" } }

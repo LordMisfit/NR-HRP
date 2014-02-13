@@ -1,0 +1,24 @@
+// Magazine Stands
+texture 6111 { pal 0 { file "highresNR/textures/NRmagazinestands/6111.png" } }
+texture 6114 { pal 0 { file "highresNR/textures/NRmagazinestands/6114.png" } }
+texture 6115 { pal 0 { file "highresNR/textures/NRmagazinestands/6115.png" } }
+texture 6116 { pal 0 { file "highresNR/textures/NRmagazinestands/6116.png" } }
+texture 6117 { pal 0 { file "highresNR/textures/NRmagazinestands/6117.png" } }
+texture 6118 { pal 0 { file "highresNR/textures/NRmagazinestands/6118.png" } }
+texture 6119 { pal 0 { file "highresNR/textures/NRmagazinestands/6119.png" } }
+texture 6120 { pal 0 { file "highresNR/textures/NRmagazinestands/6120.png" } }
+texture 6121 { pal 0 { file "highresNR/textures/NRmagazinestands/6121.png" } }
+texture 6122 { pal 0 { file "highresNR/textures/NRmagazinestands/6122.png" } }
+texture 6123 { pal 0 { file "highresNR/textures/NRmagazinestands/6123.png" } }
+texture 6124 { pal 0 { file "highresNR/textures/NRmagazinestands/6124.png" } }
+texture 6125 { pal 0 { file "highresNR/textures/NRmagazinestands/6125.png" } }
+texture 6126 { pal 0 { file "highresNR/textures/NRmagazinestands/6126.png" } }
+texture 6127 { pal 0 { file "highresNR/textures/NRmagazinestands/6127.png" } }
+texture 6128 { pal 0 { file "highresNR/textures/NRmagazinestands/6128.png" } }
+texture 6129 { pal 0 { file "highresNR/textures/NRmagazinestands/6129.png" } }
+texture 6130 { pal 0 { file "highresNR/textures/NRmagazinestands/6130.png" } }
+texture 6131 { pal 0 { file "highresNR/textures/NRmagazinestands/6131.png" } }
+texture 6132 { pal 0 { file "highresNR/textures/NRmagazinestands/6132.png" } }
+texture 6133 { pal 0 { file "highresNR/textures/NRmagazinestands/6133.png" } }
+texture 6134 { pal 0 { file "highresNR/textures/NRmagazinestands/6134.png" } }
+

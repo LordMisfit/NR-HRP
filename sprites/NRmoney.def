@@ -1,0 +1,37 @@
+// Coins
+
+texture 5120 { pal 0 { file "highresNR/sprites/NRmoney/5120.png" } }
+texture 5121 { pal 0 { file "highresNR/sprites/NRmoney/5121.png" } }
+texture 5122 { pal 0 { file "highresNR/sprites/NRmoney/5122.png" } }
+texture 5123 { pal 0 { file "highresNR/sprites/NRmoney/5123.png" } }
+texture 5124 { pal 0 { file "highresNR/sprites/NRmoney/5124.png" } }
+texture 5125 { pal 0 { file "highresNR/sprites/NRmoney/5125.png" } }
+
+// Paper Money
+
+texture 5126 { pal 0 { file "highresNR/sprites/NRmoney/5126.png" } }
+texture 5127 { pal 0 { file "highresNR/sprites/NRmoney/5127.png" } }
+texture 5128 { pal 0 { file "highresNR/sprites/NRmoney/5128.png" } }
+texture 5129 { pal 0 { file "highresNR/sprites/NRmoney/5129.png" } }
+texture 5130 { pal 0 { file "highresNR/sprites/NRmoney/5130.png" } }
+texture 5131 { pal 0 { file "highresNR/sprites/NRmoney/5131.png" } }
+texture 5132 { pal 0 { file "highresNR/sprites/NRmoney/5132.png" } }
+texture 5133 { pal 0 { file "highresNR/sprites/NRmoney/5133.png" } }
+texture 5134 { pal 0 { file "highresNR/sprites/NRmoney/5134.png" } }
+texture 5135 { pal 0 { file "highresNR/sprites/NRmoney/5135.png" } }
+texture 5136 { pal 0 { file "highresNR/sprites/NRmoney/5136.png" } }
+texture 5137 { pal 0 { file "highresNR/sprites/NRmoney/5137.png" } }
+texture 5138 { pal 0 { file "highresNR/sprites/NRmoney/5138.png" } }
+texture 5139 { pal 0 { file "highresNR/sprites/NRmoney/5139.png" } }
+texture 5140 { pal 0 { file "highresNR/sprites/NRmoney/5140.png" } }
+texture 5141 { pal 0 { file "highresNR/sprites/NRmoney/5141.png" } }
+texture 5142 { pal 0 { file "highresNR/sprites/NRmoney/5142.png" } }
+texture 5143 { pal 0 { file "highresNR/sprites/NRmoney/5143.png" } }
+texture 5144 { pal 0 { file "highresNR/sprites/NRmoney/5144.png" } }
+texture 5145 { pal 0 { file "highresNR/sprites/NRmoney/5145.png" } }
+
+// Money Bag
+
+texture 5146 { pal 0 { file "highresNR/sprites/NRmoney/5146.png" } }
+
+

@@ -1,0 +1,209 @@
+// Duke It Out In D.C. Skyboxes
+
+// Sky DC1 (Day)
+skybox { 
+   tile 1084 pal 24
+   front "highresNR/skyboxes/sky_dc1/DC1_ft.jpg"
+   right "highresNR/skyboxes/sky_dc1/DC1_rt.jpg"
+   back "highresNR/skyboxes/sky_dc1/DC1_bk.jpg"
+   left "highresNR/skyboxes/sky_dc1/DC1_lt.jpg"   
+   top "highresNR/skyboxes/sky_dc1/DC1_up.jpg" 
+   down "highresNR/skyboxes/sky_dc1/DC1_dn.jpg"
+}
+
+// Sky DC1 (Blue)
+skybox {
+   tile 1086 pal 1 
+   front "highresNR/skyboxes/sky_dc1/DC1_ft.jpg" 
+   right "highresNR/skyboxes/sky_dc1/DC1_rt.jpg" 
+   back "highresNR/skyboxes/sky_dc1/DC1_bk.jpg" 
+   left "highresNR/skyboxes/sky_dc1/DC1_lt.jpg"
+   top "highresNR/skyboxes/sky_dc1/DC1_up.jpg" 
+   down "highresNR/skyboxes/sky_dc1/DC1_dn.jpg"
+}
+
+skybox { 
+   tile 1086 pal 24 
+   front "highresNR/skyboxes/sky_dc1/DC1_ft.jpg" 
+   right "highresNR/skyboxes/sky_dc1/DC1_rt.jpg" 
+   back "highresNR/skyboxes/sky_dc1/DC1_bk.jpg" 
+   left "highresNR/skyboxes/sky_dc1/DC1_lt.jpg"
+   top "highresNR/skyboxes/sky_dc1/DC1_up.jpg" 
+   down "highresNR/skyboxes/sky_dc1/DC1_dn.jpg"
+}
+
+
+// Sky DC2 (Night)
+skybox {
+   tile 3708 pal 0 
+   front "highresNR/skyboxes/sky_dc2/DC2_ft.jpg" 
+   right "highresNR/skyboxes/sky_dc2/DC2_rt.jpg" 
+   back "highresNR/skyboxes/sky_dc2/DC2_bk.jpg" 
+   left "highresNR/skyboxes/sky_dc2/DC2_lt.jpg"  
+   top "highresNR/skyboxes/sky_dc2/DC2_up.jpg" 
+   down "highresNR/skyboxes/sky_dc2/DC2_dn.jpg"
+}
+
+skybox {
+   tile 3708 pal 1
+   front "highresNR/skyboxes/sky_dc2/DC2_ft.jpg"
+   right "highresNR/skyboxes/sky_dc2/DC2_rt.jpg"  
+   back "highresNR/skyboxes/sky_dc2/DC2_bk.jpg" 
+   left "highresNR/skyboxes/sky_dc2/DC2_lt.jpg"
+   top "highresNR/skyboxes/sky_dc2/DC2_up.jpg" 
+   down "highresNR/skyboxes/sky_dc2/DC2_dn.jpg"
+}
+
+// NR Skyboxes
+
+skybox {
+   tile 6715 pal 0
+   front "highresNR/skyboxes/6715_bluejapansky/6715_front.jpg"
+   right "highresNR/skyboxes/6715_bluejapansky/6715_right.jpg"
+   back  "highresNR/skyboxes/6715_bluejapansky/6715_back.jpg"
+   left  "highresNR/skyboxes/6715_bluejapansky/6715_left.jpg"
+   top   "highresNR/skyboxes/6715_bluejapansky/6715_top.jpg"
+   down  "highresNR/skyboxes/6715_bluejapansky/6715_down.jpg"
+}
+
+skybox {
+   tile 6716 pal 0
+   front "highresNR/skyboxes/6716_tokyocity/6716_front.jpg"
+   right "highresNR/skyboxes/6716_tokyocity/6716_right.jpg"
+   back  "highresNR/skyboxes/6716_tokyocity/6716_back.jpg"
+   left  "highresNR/skyboxes/6716_tokyocity/6716_left.jpg"
+   top   "highresNR/skyboxes/6716_tokyocity/6716_top.jpg"
+   down  "highresNR/skyboxes/6716_tokyocity/6716_down.jpg"
+}
+
+skybox {
+   tile 6717 pal 0
+   front "highresNR/skyboxes/6717_dawnjapansky/6717_front.jpg"
+   right "highresNR/skyboxes/6717_dawnjapansky/6717_right.jpg"
+   back  "highresNR/skyboxes/6717_dawnjapansky/6717_back.jpg"
+   left  "highresNR/skyboxes/6717_dawnjapansky/6717_left.jpg"
+   top   "highresNR/skyboxes/6717_dawnjapansky/6717_top.jpg"
+   down  "highresNR/skyboxes/6717_dawnjapansky/6717_down.jpg"
+}
+
+skybox {
+   tile 6718 pal 0
+   front "highresNR/skyboxes/6718_cloudyjapansky/6718_front.jpg"
+   right "highresNR/skyboxes/6718_cloudyjapansky/6718_right.jpg"
+   back  "highresNR/skyboxes/6718_cloudyjapansky/6718_back.jpg"
+   left  "highresNR/skyboxes/6718_cloudyjapansky/6718_left.jpg"
+   top   "highresNR/skyboxes/6718_cloudyjapansky/6718_top.jpg"
+   down  "highresNR/skyboxes/6718_cloudyjapansky/6718_down.jpg"
+}
+
+skybox {
+   tile 6719 pal 0
+   front "highresNR/skyboxes/6719_stormyjapansky/6719_front.jpg"
+   right "highresNR/skyboxes/6719_stormyjapansky/6719_right.jpg"
+   back  "highresNR/skyboxes/6719_stormyjapansky/6719_back.jpg"
+   left  "highresNR/skyboxes/6719_stormyjapansky/6719_left.jpg"
+   top   "highresNR/skyboxes/6719_stormyjapansky/6719_top.jpg"
+   down  "highresNR/skyboxes/6719_stormyjapansky/6719_down.jpg"
+}
+
+skybox {
+   tile 6721 pal 0
+   front "highresNR/skyboxes/6721_mtfujijapansky/6721_front.jpg"
+   right "highresNR/skyboxes/6721_mtfujijapansky/6721_right.jpg"
+   back  "highresNR/skyboxes/6721_mtfujijapansky/6721_back.jpg"
+   left  "highresNR/skyboxes/6721_mtfujijapansky/6721_left.jpg"
+   top   "highresNR/skyboxes/6721_mtfujijapansky/6721_top.jpg"
+   down  "highresNR/skyboxes/6721_mtfujijapansky/6721_down.jpg"
+}
+
+skybox {
+   tile 6722 pal 0
+   front "highresNR/skyboxes/6722_mountainjapansky/6722_front.jpg"
+   right "highresNR/skyboxes/6722_mountainjapansky/6722_right.jpg"
+   back  "highresNR/skyboxes/6722_mountainjapansky/6722_back.jpg"
+   left  "highresNR/skyboxes/6722_mountainjapansky/6722_left.jpg"
+   top   "highresNR/skyboxes/6722_mountainjapansky/6722_top.jpg"
+   down  "highresNR/skyboxes/6722_mountainjapansky/6722_down.jpg"
+}
+
+skybox {
+   tile 6750 pal 0
+   front "highresNR/skyboxes/6750_cloudy2japansky/6750_front.jpg"
+   right "highresNR/skyboxes/6750_cloudy2japansky/6750_right.jpg"
+   back  "highresNR/skyboxes/6750_cloudy2japansky/6750_back.jpg"
+   left  "highresNR/skyboxes/6750_cloudy2japansky/6750_left.jpg"
+   top   "highresNR/skyboxes/6750_cloudy2japansky/6750_top.jpg"
+   down  "highresNR/skyboxes/6750_cloudy2japansky/6750_down.jpg"
+}
+
+skybox {
+   tile 6751 pal 0
+   front "highresNR/skyboxes/6751_blue2japansky/6751_front.jpg"
+   right "highresNR/skyboxes/6751_blue2japansky/6751_right.jpg"
+   back  "highresNR/skyboxes/6751_blue2japansky/6751_back.jpg"
+   left  "highresNR/skyboxes/6751_blue2japansky/6751_left.jpg"
+   top   "highresNR/skyboxes/6751_blue2japansky/6751_top.jpg"
+   down  "highresNR/skyboxes/6751_blue2japansky/6751_down.jpg"
+}
+
+skybox {
+   tile 6752 pal 0
+   front "highresNR/skyboxes/6752_mountainlongjapansky/6752_front.jpg"
+   right "highresNR/skyboxes/6752_mountainlongjapansky/6752_right.jpg"
+   back  "highresNR/skyboxes/6752_mountainlongjapansky/6752_back.jpg"
+   left  "highresNR/skyboxes/6752_mountainlongjapansky/6752_left.jpg"
+   top   "highresNR/skyboxes/6752_mountainlongjapansky/6752_top.jpg"
+   down  "highresNR/skyboxes/6752_mountainlongjapansky/6752_down.jpg"
+}
+
+skybox {
+   tile 6753 pal 0
+   front "highresNR/skyboxes/6753_landscapejapansky/6753_front.jpg"
+   right "highresNR/skyboxes/6753_landscapejapansky/6753_right.jpg"
+   back  "highresNR/skyboxes/6753_landscapejapansky/6753_back.jpg"
+   left  "highresNR/skyboxes/6753_landscapejapansky/6753_left.jpg"
+   top   "highresNR/skyboxes/6753_landscapejapansky/6753_top.jpg"
+   down  "highresNR/skyboxes/6753_landscapejapansky/6753_down.jpg"
+}
+
+skybox {
+   tile 6267 pal 0
+   front "highresNR/skyboxes/6719_stormyjapansky/6719_front.jpg"
+   right "highresNR/skyboxes/6719_stormyjapansky/6719_right.jpg"
+   back  "highresNR/skyboxes/6719_stormyjapansky/6719_back.jpg"
+   left  "highresNR/skyboxes/6719_stormyjapansky/6719_left.jpg"
+   top   "highresNR/skyboxes/6719_stormyjapansky/6719_top.jpg"
+   down  "highresNR/skyboxes/6719_stormyjapansky/6719_down.jpg"
+}
+
+skybox {
+   tile 6268 pal 0
+   front "highresNR/skyboxes/6719_stormyjapansky/6719_front.jpg"
+   right "highresNR/skyboxes/6719_stormyjapansky/6719_right.jpg"
+   back  "highresNR/skyboxes/6719_stormyjapansky/6719_back.jpg"
+   left  "highresNR/skyboxes/6719_stormyjapansky/6719_left.jpg"
+   top   "highresNR/skyboxes/6719_stormyjapansky/6719_top.jpg"
+   down  "highresNR/skyboxes/6719_stormyjapansky/6719_down.jpg"
+}
+
+skybox {
+   tile 6269 pal 0
+   front "highresNR/skyboxes/6719_stormyjapansky/6719_front.jpg"
+   right "highresNR/skyboxes/6719_stormyjapansky/6719_right.jpg"
+   back  "highresNR/skyboxes/6719_stormyjapansky/6719_back.jpg"
+   left  "highresNR/skyboxes/6719_stormyjapansky/6719_left.jpg"
+   top   "highresNR/skyboxes/6719_stormyjapansky/6719_top.jpg"
+   down  "highresNR/skyboxes/6719_stormyjapansky/6719_down.jpg"
+}
+
+skybox {
+   tile 6270 pal 0
+   front "highresNR/skyboxes/6719_stormyjapansky/6719_front.jpg"
+   right "highresNR/skyboxes/6719_stormyjapansky/6719_right.jpg"
+   back  "highresNR/skyboxes/6719_stormyjapansky/6719_back.jpg"
+   left  "highresNR/skyboxes/6719_stormyjapansky/6719_left.jpg"
+   top   "highresNR/skyboxes/6719_stormyjapansky/6719_top.jpg"
+   down  "highresNR/skyboxes/6719_stormyjapansky/6719_down.jpg"
+}
+
+

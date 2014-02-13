@@ -1,0 +1,50 @@
+// Menu Stuff
+
+// Misc
+texture 2456 { pal 0 { file "highresNR/screen/menu/2456.png" } } // Normal Background Graphic [shops, etc]
+
+texture 2493 { pal 0 { file "highresNR/screen/menu/2493.png" } } // "Naferia's Reign" Intro Picture
+texture 2497 { pal 0 { file "highresNR/screen/menu/2497.png" } } // "DUKE NUKEM" Intro Text
+texture 2498 { pal 0 { file "highresNR/screen/menu/2498.png" } } // "3D" Intro Text
+texture 2499 { pal 0 { file "highresNR/screen/menu/2499.png" } } // "DUKE NUKEM 3D" Title Screen Text
+texture 2502 { pal 0 { file "highresNR/screen/menu/2502.png" } } // "NR" Intro Text
+texture 2503 { pal 0 { file "highresNR/screen/menu/2503.png" } } // "NR" Title Screen Text
+
+texture 2813 { pal 0 { file "highresNR/screen/menu/2813.png" } } // "NR" Nuke Icon - Frame 1
+texture 2814 { pal 0 { file "highresNR/screen/menu/2814.png" } } // "NR" Nuke Icon - Frame 2
+texture 2815 { pal 0 { file "highresNR/screen/menu/2815.png" } } // "NR" Nuke Icon - Frame 3
+texture 2816 { pal 0 { file "highresNR/screen/menu/2816.png" } } // "NR" Nuke Icon - Frame 4
+texture 2817 { pal 0 { file "highresNR/screen/menu/2817.png" } } // "NR" Nuke Icon - Frame 5
+texture 2818 { pal 0 { file "highresNR/screen/menu/2818.png" } } // "NR" Nuke Icon - Frame 6
+texture 2819 { pal 0 { file "highresNR/screen/menu/2819.png" } } // "NR" Nuke Icon - Frame 7
+
+texture 3281 { pal 0 { file "highresNR/screen/menu/3281-NR.png" } } // "Loading Level" Background Graphic with NR's blue Nuke Logo.
+
+// Dialoug and Pause Screen
+texture 8171 { pal 0 { file "highresNR/screen/menu/8171.png" } } // Dialouge - Character Holder
+texture 8172 { pal 0 { file "highresNR/screen/menu/8172.png" } } // Dialouge - Text Box 1
+texture 8173 { pal 0 { file "highresNR/screen/menu/8173.png" } } // Dialouge - Text Box 2
+
+// In-Game Menus
+texture 8175 { pal 0 { file "highresNR/screen/menu/8175.png" } } // Character Holder Plate
+texture 8176 { pal 0 { file "highresNR/screen/menu/8176.png" } } // Vehicle Holder Plate
+texture 8177 { pal 0 { file "highresNR/screen/menu/8177.png" } } // Item Holder Plate
+
+texture 8178 { pal 0 { file "highresNR/screen/menu/8178.png" } } // Worldtile Selector - Tile 1
+texture 8179 { pal 0 { file "highresNR/screen/menu/8179.png" } } // Worldtile Selector - Tile 2
+texture 8180 { pal 0 { file "highresNR/screen/menu/8180.png" } } // Worldtile Selector - Tile 3
+texture 8181 { pal 0 { file "highresNR/screen/menu/8181.png" } } // Worldtile Selector - Tile 4
+
+texture 8183 { pal 0 { file "highresNR/screen/menu/8183.png" } } // Item Selector - Tile 1
+texture 8184 { pal 0 { file "highresNR/screen/menu/8184.png" } } // Item Selector - Tile 2
+texture 8185 { pal 0 { file "highresNR/screen/menu/8185.png" } } // Item Selector - Tile 3
+texture 8186 { pal 0 { file "highresNR/screen/menu/8186.png" } } // Item Selector - Tile 4
+
+texture 8187 { pal 0 { file "highresNR/screen/menu/8187.png" } } // Character Selector - Tile 1
+texture 8188 { pal 0 { file "highresNR/screen/menu/8188.png" } } // Character Selector - Tile 2
+texture 8189 { pal 0 { file "highresNR/screen/menu/8189.png" } } // Character Selector - Tile 3
+texture 8190 { pal 0 { file "highresNR/screen/menu/8190.png" } } // Character Selector - Tile 4
+
+texture 8191 { pal 0 { file "highresNR/screen/menu/8191.png" } } // In-Game Menus' Background Graphic
+texture 8446 { pal 0 { file "highresNR/screen/menu/8446.png" } } // "Lisa & Ted" Special Graphic
+texture 8447 { pal 0 { file "highresNR/screen/menu/8447.png" } } // "Maken & Lori" Special Graphic

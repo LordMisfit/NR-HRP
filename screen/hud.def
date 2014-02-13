@@ -1,0 +1,40 @@
+// HUD Stuff
+
+// "Frozen" HUD graphic [when frozen by freezethrower]
+texture 3517 {
+   pal 0 { file "highresNR/screen/hud/3517.png" }
+   pal 10 { file "highresNR/screen/hud/3517_10.png" }
+   pal 11 { file "highresNR/screen/hud/3517_11.png" }
+   pal 12 { file "highresNR/screen/hud/3517_12.png" }
+   pal 13 { file "highresNR/screen/hud/3517_13.png" }
+   pal 14 { file "highresNR/screen/hud/3517_14.png" }
+   pal 15 { file "highresNR/screen/hud/3517_15.png" }
+   pal 16 { file "highresNR/screen/hud/3517_16.png" }
+   pal 17 { file "highresNR/screen/hud/3517_11.png" }
+   pal 18 { file "highresNR/screen/hud/3517_12.png" }
+   pal 19 { file "highresNR/screen/hud/3517_12.png" }
+   pal 20 { file "highresNR/screen/hud/3517_12.png" }
+   pal 21 { file "highresNR/screen/hud/3517_21.png" }
+   pal 22 { file "highresNR/screen/hud/3517_11.png" }
+   pal 23 { file "highresNR/screen/hud/3517_23.png" }
+}
+
+// Damage Rings [when dealt damage, ala modern FPS games]
+texture 3519 {
+   pal 0 { file "highresNR/screen/hud/3519.png" }
+   pal 10 { file "highresNR/screen/hud/3519_10.png" }
+   pal 11 { file "highresNR/screen/hud/3519_11.png" }
+   pal 12 { file "highresNR/screen/hud/3519_12.png" }
+   pal 13 { file "highresNR/screen/hud/3519_13.png" }
+   pal 14 { file "highresNR/screen/hud/3519_14.png" }
+   pal 15 { file "highresNR/screen/hud/3519_15.png" }
+   pal 16 { file "highresNR/screen/hud/3519_16.png" }
+   pal 17 { file "highresNR/screen/hud/3519_11.png" }
+   pal 18 { file "highresNR/screen/hud/3519_12.png" }
+   pal 19 { file "highresNR/screen/hud/3519_12.png" }
+   pal 20 { file "highresNR/screen/hud/3519_12.png" }
+   pal 21 { file "highresNR/screen/hud/3519_21.png" }
+   pal 22 { file "highresNR/screen/hud/3519_11.png" }
+   pal 23 { file "highresNR/screen/hud/3519_23.png" }
+}
+
