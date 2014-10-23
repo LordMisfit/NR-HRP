@@ -1,0 +1,4 @@
+include "highresNR/screen/fonts.def"
+include "highresNR/screen/hud.def"
+include "highresNR/screen/menu.def"
+include "highresNR/screen/meters.def"

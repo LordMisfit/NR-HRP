@@ -21,3 +21,7 @@ texture 7811 {
    pal 22 { file "highresNR/sprites/NRmisc/7811_11.png" }
    pal 23 { file "highresNR/sprites/NRmisc/7811_23.png" }
 }
+
+texture 7812 {
+   pal 0 { file "highresNR/sprites/NRmisc/7812.png" }
+}

@@ -1,0 +1,10 @@
+// Element Icons
+texture 7571 { pal 0 { file "highresNR/sprites/NRelements/7571.png" } }
+texture 7572 { pal 0 { file "highresNR/sprites/NRelements/7572.png" } }
+texture 7573 { pal 0 { file "highresNR/sprites/NRelements/7573.png" } }
+texture 7574 { pal 0 { file "highresNR/sprites/NRelements/7574.png" } }
+texture 7575 { pal 0 { file "highresNR/sprites/NRelements/7575.png" } }
+texture 7576 { pal 0 { file "highresNR/sprites/NRelements/7576.png" } }
+texture 7577 { pal 0 { file "highresNR/sprites/NRelements/7577.png" } }
+texture 7578 { pal 0 { file "highresNR/sprites/NRelements/7578.png" } }
+texture 7579 { pal 0 { file "highresNR/sprites/NRelements/7579.png" } }

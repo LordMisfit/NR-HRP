@@ -1,0 +1,10 @@
+// Miscellaneous
+
+// Various Versions of Tile 866 [bookshelf] w/ various NR-specfic magazines on them.
+texture 6254 { pal 0 { file "highresNR/textures/NRcustom/6254.png" } } // With Christina on the "Vauge" Cover [May]
+texture 6255 { pal 0 { file "highresNR/textures/NRcustom/6255.png" } } // With Lisa on the "Vauge" Cover & with Duke's "Weapons and Ammo" Cover. [June]
+texture 6256 { pal 0 { file "highresNR/textures/NRcustom/6256.png" } } // With Maken on the "Vauge" Cover [July]
+texture 6257 { pal 0 { file "highresNR/textures/NRcustom/6257.png" } } // With Hinotori on the "Vauge" Cover [August]
+texture 6258 { pal 0 { file "highresNR/textures/NRcustom/6258.png" } } // Another Blank
+texture 6271 { pal 0 { file "highresNR/textures/NRcustom/6271.png" } } // With Lori on the "Vauge" Cover [September]
+

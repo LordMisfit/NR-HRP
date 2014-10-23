@@ -1,0 +1,17 @@
+include "highresNR/sprites/pickups.def"
+include "highresNR/sprites/props.def"
+include "highresNR/sprites/signs.def"
+include "highresNR/sprites/switches.def"
+
+// NR Specfic Stuff
+include "highresNR/sprites/NRaffinities.def"
+include "highresNR/sprites/NRdamagepics.def"
+include "highresNR/sprites/NRelements.def"
+include "highresNR/sprites/NRmemorbilia.def"
+include "highresNR/sprites/NRmisc.def"
+include "highresNR/sprites/NRmoney.def"
+include "highresNR/sprites/NRportraits.def"
+include "highresNR/sprites/NRwantedposters.def"
+include "highresNR/sprites/NRworldtiles.def"
+
+

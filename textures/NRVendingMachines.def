@@ -1,0 +1,11 @@
+// Custom Vending Machines
+
+texture 7636 { pal 0 { file "highresNR/textures/NRVendingMachines/beatrice.png" } }
+texture 7637 { pal 0 { file "highresNR/textures/NRVendingMachines/schirach.png" } }
+texture 7638 { pal 0 { file "highresNR/textures/NRVendingMachines/earthwormjim.png" } }
+texture 7639 { pal 0 { file "highresNR/textures/NRVendingMachines/aokotouko.png" } }
+texture 7641 { pal 0 { file "highresNR/textures/NRVendingMachines/heartsakifiona.png" } }
+//texture 7644 { pal 0 { file "highresNR/textures/NRVendingMachines/freudia.png" } }
+texture 7644 { pal 0 { file "highresNR/textures/NRVendingMachines/freudia-rksf.png" } }
+texture 7645 { pal 0 { file "highresNR/textures/NRVendingMachines/lilica.png" } }
+texture 7662 { pal 0 { file "highresNR/textures/NRVendingMachines/arin.png" } }
