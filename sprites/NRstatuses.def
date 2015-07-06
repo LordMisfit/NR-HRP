@@ -1,0 +1,18 @@
+// Timed Buff/Debuff Icons
+texture 8100 { pal 0 { file "highresNR/sprites/NRstatuses/8100-death.png" } }
+texture 8101 { pal 0 { file "highresNR/sprites/NRstatuses/8101-poison.png" } }
+texture 8102 { pal 0 { file "highresNR/sprites/NRstatuses/8102-dimness.png" } }
+texture 8103 { pal 0 { file "highresNR/sprites/NRstatuses/8103-confusion.png" } }
+texture 8104 { pal 0 { file "highresNR/sprites/NRstatuses/8104-triadrefractor.png" } }
+texture 8105 { pal 0 { file "highresNR/sprites/NRstatuses/8105-TriadRagnarok.png" } }
+texture 8106 { pal 0 { file "highresNR/sprites/NRstatuses/8106-haste.png" } }
+texture 8107 { pal 0 { file "highresNR/sprites/NRstatuses/8107-slow.png" } }
+texture 8108 { pal 0 { file "highresNR/sprites/NRstatuses/8108-damageshell.png" } }
+texture 8109 { pal 0 { file "highresNR/sprites/NRstatuses/8109-aquaprotection.png" } }
+texture 8110 { pal 0 { file "highresNR/sprites/NRstatuses/8110-pkshield.png" } }
+texture 8111 { pal 0 { file "highresNR/sprites/NRstatuses/8111-triadblitzkrieg.png" } }
+texture 8112 { pal 0 { file "highresNR/sprites/NRstatuses/8112-triadbooster.png" } }
+texture 8113 { pal 0 { file "highresNR/sprites/NRstatuses/8113-bloodlusting.png" } }
+texture 8114 { pal 0 { file "highresNR/sprites/NRstatuses/8114-corrosion.png" } }
+
+// Specialized Natural Buffs
