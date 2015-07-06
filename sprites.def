@@ -11,6 +11,7 @@ include "highresNR/sprites/NRmemorbilia.def"
 include "highresNR/sprites/NRmisc.def"
 include "highresNR/sprites/NRmoney.def"
 include "highresNR/sprites/NRportraits.def"
+include "highresNR/sprites/NRstatuses.def"
 include "highresNR/sprites/NRwantedposters.def"
 include "highresNR/sprites/NRworldtiles.def"
 
