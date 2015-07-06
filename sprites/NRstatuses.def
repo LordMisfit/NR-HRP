@@ -16,6 +16,7 @@ texture 8113 { pal 0 { file "highresNR/sprites/NRstatuses/8113-bloodlusting.png"
 texture 8114 { pal 0 { file "highresNR/sprites/NRstatuses/8114-corrosion.png" } }
 
 // Specialized Natural Buffs
+texture 8080 { pal 0 { file "highresNR/sprites/NRstatuses/8080-blankstatusframe.png" } }
 texture 8081 { pal 0 { file "highresNR/sprites/NRstatuses/8081-toxicrevengemk1.png" } }
 texture 8082 { pal 0 { file "highresNR/sprites/NRstatuses/8082-toxicrevengemk2.png" } }
 texture 8083 { pal 0 { file "highresNR/sprites/NRstatuses/8083-wateradaptivitymk1.png" } }
@@ -27,3 +28,4 @@ texture 8088 { pal 0 { file "highresNR/sprites/NRstatuses/8088-ladylucklv4.png" 
 texture 8089 { pal 0 { file "highresNR/sprites/NRstatuses/8089-bubsydivingsuit.png" } }
 texture 8090 { pal 0 { file "highresNR/sprites/NRstatuses/8090-waterweaknesslv1.png" } }
 texture 8091 { pal 0 { file "highresNR/sprites/NRstatuses/8091-waterweaknesslv2.png" } }
+texture 8092 { pal 0 { file "highresNR/sprites/NRstatuses/8092-crisisboosterbase.png" } }
