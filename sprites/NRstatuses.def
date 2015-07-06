@@ -24,3 +24,6 @@ texture 8085 { pal 0 { file "highresNR/sprites/NRstatuses/8085-ladylucklv1.png" 
 texture 8086 { pal 0 { file "highresNR/sprites/NRstatuses/8086-ladylucklv2.png" } }
 texture 8087 { pal 0 { file "highresNR/sprites/NRstatuses/8087-ladylucklv3.png" } }
 texture 8088 { pal 0 { file "highresNR/sprites/NRstatuses/8088-ladylucklv4.png" } }
+texture 8089 { pal 0 { file "highresNR/sprites/NRstatuses/8089-bubsydivingsuit.png" } }
+texture 8090 { pal 0 { file "highresNR/sprites/NRstatuses/8090-waterweaknesslv1.png" } }
+texture 8091 { pal 0 { file "highresNR/sprites/NRstatuses/8091-waterweaknesslv2.png" } }
