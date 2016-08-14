@@ -121,6 +121,14 @@ texture 5028 { pal 0 { file "highresNR/textures/NRtvscreens/5028.png" } }
 texture 5029 { pal 0 { file "highresNR/textures/NRtvscreens/5029.png" } }
 
 texture 6252 { pal 0 { file "highresNR/textures/NRtvscreens/6252.png" } }
+texture 7491 { pal 0 { file "highresNR/textures/NRtvscreens/7491.png" } }
+texture 7492 { pal 0 { file "highresNR/textures/NRtvscreens/7492.png" } }
+texture 7493 { pal 0 { file "highresNR/textures/NRtvscreens/7493.png" } }
+texture 7494 { pal 0 { file "highresNR/textures/NRtvscreens/7494.png" } }
+texture 7495 { pal 0 { file "highresNR/textures/NRtvscreens/7495.png" } }
+texture 7496 { pal 0 { file "highresNR/textures/NRtvscreens/7496.png" } }
+texture 7497 { pal 0 { file "highresNR/textures/NRtvscreens/7497.png" } }
+texture 7498 { pal 0 { file "highresNR/textures/NRtvscreens/7498.png" } }
 texture 7499 { pal 0 { file "highresNR/textures/NRtvscreens/7499.png" } }
 texture 7500 { pal 0 { file "highresNR/textures/NRtvscreens/7500.png" } }
 texture 7501 { pal 0 { file "highresNR/textures/NRtvscreens/7501.png" } }
