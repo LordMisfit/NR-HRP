@@ -9,3 +9,7 @@ texture 7641 { pal 0 { file "highresNR/textures/NRVendingMachines/heartsakifiona
 texture 7644 { pal 0 { file "highresNR/textures/NRVendingMachines/freudia-rksf.png" } }
 texture 7645 { pal 0 { file "highresNR/textures/NRVendingMachines/lilica.png" } }
 texture 7662 { pal 0 { file "highresNR/textures/NRVendingMachines/arin.png" } }
+
+texture 7816 { pal 0 { file "highresNR/textures/NRVendingMachines/flora.png" } }
+texture 7817 { pal 0 { file "highresNR/textures/NRVendingMachines/debora.png" } }
+texture 7818 { pal 0 { file "highresNR/textures/NRVendingMachines/bianca.png" } }
