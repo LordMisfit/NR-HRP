@@ -5,7 +5,6 @@ texture 7637 { pal 0 { file "highresNR/textures/NRVendingMachines/schirach.png" 
 texture 7638 { pal 0 { file "highresNR/textures/NRVendingMachines/earthwormjim.png" } }
 texture 7639 { pal 0 { file "highresNR/textures/NRVendingMachines/aokotouko.png" } }
 texture 7641 { pal 0 { file "highresNR/textures/NRVendingMachines/heartsakifiona.png" } }
-//texture 7644 { pal 0 { file "highresNR/textures/NRVendingMachines/freudia.png" } }
 texture 7644 { pal 0 { file "highresNR/textures/NRVendingMachines/freudia-rksf.png" } }
 texture 7645 { pal 0 { file "highresNR/textures/NRVendingMachines/lilica.png" } }
 texture 7662 { pal 0 { file "highresNR/textures/NRVendingMachines/arin.png" } }
@@ -13,3 +12,19 @@ texture 7662 { pal 0 { file "highresNR/textures/NRVendingMachines/arin.png" } }
 texture 7816 { pal 0 { file "highresNR/textures/NRVendingMachines/flora.png" } }
 texture 7817 { pal 0 { file "highresNR/textures/NRVendingMachines/debora.png" } }
 texture 7818 { pal 0 { file "highresNR/textures/NRVendingMachines/bianca.png" } }
+texture 7819 { pal 0 { file "highresNR/textures/NRVendingMachines/tensiyoka.png" } }
+texture 7820 { pal 0 { file "highresNR/textures/NRVendingMachines/lowang.png" } }
+texture 7821 { pal 0 { file "highresNR/textures/NRVendingMachines/haruokamura.png" } }
+texture 7822 { pal 0 { file "highresNR/textures/NRVendingMachines/popurivamp.png" } }
+texture 7823 { pal 0 { file "highresNR/textures/NRVendingMachines/amimizuno.png" } }
+texture 7824 { pal 0 { file "highresNR/textures/NRVendingMachines/flora2.png" } }
+texture 7825 { pal 0 { file "highresNR/textures/NRVendingMachines/ordercultist.png" } }
+texture 7826 { pal 0 { file "highresNR/textures/NRVendingMachines/dsparil.png" } }
+texture 7827 { pal 0 { file "highresNR/textures/NRVendingMachines/tiffaniawestwood.png" } }
+texture 7828 { pal 0 { file "highresNR/textures/NRVendingMachines/compa.png" } }
+texture 7829 { pal 0 { file "highresNR/textures/NRVendingMachines/rimikokorone.png" } }
+texture 7830 { pal 0 { file "highresNR/textures/NRVendingMachines/janiaproudmoore.png" } }
+texture 7831 { pal 0 { file "highresNR/textures/NRVendingMachines/alena.png" } }
+texture 7832 { pal 0 { file "highresNR/textures/NRVendingMachines/amane.png" } }
+texture 7833 { pal 0 { file "highresNR/textures/NRVendingMachines/cleopatra.png" } }
+texture 7834 { pal 0 { file "highresNR/textures/NRVendingMachines/jessicaalbert.png" } }
