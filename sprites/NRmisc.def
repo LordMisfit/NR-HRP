@@ -3,6 +3,8 @@
 // "Misfits" Logo
 texture 3843 { pal 0 { file "highresNR/sprites/NRmisc/3843.png" } }
 
+texture 7423 { pal 0 { file "highresNR/sprites/NRmisc/7423.png" } }
+
 // Level-Rank Star [Normal Monsters]
 texture 7811 {
    pal 0 { file "highresNR/sprites/NRmisc/7811.png" }
