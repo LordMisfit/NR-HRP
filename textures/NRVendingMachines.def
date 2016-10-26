@@ -23,7 +23,7 @@ texture 7826 { pal 0 { file "highresNR/textures/NRVendingMachines/dsparil.png" }
 texture 7827 { pal 0 { file "highresNR/textures/NRVendingMachines/tiffaniawestwood.png" } }
 texture 7828 { pal 0 { file "highresNR/textures/NRVendingMachines/compa.png" } }
 texture 7829 { pal 0 { file "highresNR/textures/NRVendingMachines/rimikokorone.png" } }
-texture 7830 { pal 0 { file "highresNR/textures/NRVendingMachines/janiaproudmoore.png" } }
+texture 7830 { pal 0 { file "highresNR/textures/NRVendingMachines/jainaproudmoore.png" } }
 texture 7831 { pal 0 { file "highresNR/textures/NRVendingMachines/alena.png" } }
 texture 7832 { pal 0 { file "highresNR/textures/NRVendingMachines/amane.png" } }
 texture 7833 { pal 0 { file "highresNR/textures/NRVendingMachines/cleopatra.png" } }
